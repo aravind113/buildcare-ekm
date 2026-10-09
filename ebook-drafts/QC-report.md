@@ -21,7 +21,7 @@ Facts were checked only against documents you supplied:
 - Questions are original practice questions, not previous-year questions, and are labelled so in the book.
 
 ## Known remaining issues
-1. Near-duplicate questions (same fact, different wording or numbers) remain in: Chapter 17 Q15 / Chapter 20 Q5 (KINFRA year); Chapter 18 Q14 / Chapter 19 Q17 (welfare pension); Test 2 Q33 / Test 4 Q30 area (MSME classification, now different numbers). Five test duplicates (Tests 4, 5, 8) were rewritten into different questions on the same facts. Several numerical questions reuse a chapter question's structure with different numbers.
+1. Duplicate questions found by the similarity check were rewritten into different questions on the same facts (Tests 4, 5, 8; Chapters 19, 20). Some numerical questions still reuse a chapter question's structure with different numbers (for example deflator, CPI inflation, money multiplier, MSME classification); these are different questions, not copies.
 2. Two source inconsistencies were avoided rather than resolved: Vizhinjam VGF share (9.32% stated vs about 9.4% computed) and the Kerala ration-card category sum (94.62 vs 94.92 lakh); the revised-budget debt ratio (33.44%) does not reproduce from the stated figures.
 3. Cover is a vector recreation using cropped artwork from the supplied image (low resolution); a flat high-resolution cover image would replace it.
 4. The GST rate effective date, consumer commission limits, Navratna list, SDG ranks, MSME limits and payment limits remain `[VERIFY]`.
