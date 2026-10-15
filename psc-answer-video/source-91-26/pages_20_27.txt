@@ -1,0 +1,356 @@
+@q 39
+STEM: രണ്ട് ബഹിരാകാശ പേടകങ്ങളെ സ്വയം നിയന്ത്രിതമായി ഡോക്കിംഗ് ചെയ്യുകയും അൺഡോക്കിംഗ് ചെയ്യുകയും വിജയകരമായി പ്രദർശിപ്പിച്ചുകൊണ്ട് ഇന്ത്യ നാലാമത്തെ രാജ്യമായി മാറിയത് ഏത് ISRO ദൗത്യത്തിലൂടെയാണ് ?
+O: A) ചന്ദ്രയാൻ-3
+O: B) സ്പേഡെക്സ്
+O: C) ആദിത്യ-L1
+O: D) മംഗൾയാൻ-2
+ANS: B
+EN: India became the fourth country to successfully demonstrate autonomous docking and undocking of two spacecraft through which ISRO mission ?
+EO: A) Chandrayaan-3
+EO: B) SpadeX
+EO: C) Aditya-L1
+EO: D) Mangalyaan-2
+
+@q 40
+STEM: താഴെ പറയുന്ന ഓക്സോ ആസിഡുകളെ അവയുടെ കാഠിന്യത്തിന്റെ ക്രമത്തിൽ ക്രമീകരിക്കുക. HClO₄, HClO₃, HClO₂, HClO
+S: i. HClO > HClO₂ > HClO₃ > HClO₄
+S: ii. HClO₄ > HClO₃ > HClO > HClO₂
+S: iii. HClO₄ > HClO₃ > HClO₂ > HClO
+S: iv. HClO₄ > HClO > HClO₃ > HClO₂
+O: A) i
+O: B) ii
+O: C) iii
+O: D) മുകളിൽ കൊടുത്തിരിക്കുന്നതിൽ ഒന്നുമല്ല
+ANS: C
+EN: Arrange the following oxoacids, in the order of their strength HClO4, HClO3, HClO2, HClO
+ES: i. HClO > HClO2 > HClO3 > HClO4
+ES: ii. HClO4 > HClO3 > HClO > HClO2
+ES: iii. HClO4 > HClO3 > HClO2 > HClO
+ES: iv. HClO4 > HClO > HClO3 > HClO2
+EO: A) i
+EO: B) ii
+EO: C) iii
+EO: D) None of the above
+
+@q 41
+STEM: ഹൈഡ്രജൻ ആറ്റത്തിന്റെ സ്പെക്ട്രത്തിൽ, താഴെപ്പറയുന്നവയിൽ ഏത് സ്പെക്ട്രൽ രേഖകളാണ് ദൃശ്യപ്രദേശത്ത് കാണപ്പെടുന്നത് ?
+S: i. Lyman
+S: ii. Paschen
+S: iii. Pfund
+O: A) മുകളിൽ പറഞ്ഞവയെല്ലാം
+O: B) i
+O: C) iii
+O: D) മുകളിൽ പറഞ്ഞവയൊന്നുമല്ല
+ANS: D
+EN: In the spectrum of Hydrogen atom, which spectral lines lies in the visible region ?
+ES: i. Lyman
+ES: ii. Paschen
+ES: iii. Pfund
+EO: A) All the above
+EO: B) i
+EO: C) iii
+EO: D) None of the above
+
+@q 42
+STEM: ആൽക്കലോയിഡുകളുടെ സാന്നിധ്യം കണ്ടെത്തുന്നതിനായി താഴെപ്പറയുന്നവയിൽ ഏത് റീയേജന്റുകളാണ് ഉപയോഗിക്കുന്നത് ?
+S: i. മേയേഴ്സ് റീയേജന്റ്
+S: ii. എർഡ്മാൻസ് റീയേജന്റ്
+S: iii. മാർക്വിസ് റീയേജന്റ്
+O: A) മുകളിൽ പറഞ്ഞവയെല്ലാം (i, ii and iii)
+O: B) മുകളിൽ പറഞ്ഞവയൊന്നുമല്ല
+O: C) i മാത്രം
+O: D) i ഉം ii ഉം മാത്രം
+ANS: A
+EN: Which of the following reagent is used for the detection of alkaloids ?
+ES: i. Mayer's Reagent.
+ES: ii. Erdmann's Reagent.
+ES: iii. Marqui's Reagent.
+EO: A) All the above (i, ii and iii)
+EO: B) None of the above
+EO: C) Only i
+EO: D) Only i and ii
+
+@q 43
+STEM: പ്രതിരോധ മന്ത്രാലയത്തിന്റെ ഗവേഷണ-വികസന പ്രവർത്തനങ്ങൾക്ക് പ്രധാനമായും ഉത്തരവാദിത്തമുള്ള സ്ഥാപനം ഏതാണ് ?
+S: i. ISRO
+S: ii. DAE
+S: iii. DRDO
+S: iv. CSIR
+O: A) i
+O: B) ii
+O: C) iii
+O: D) iv
+ANS: C
+EN: Which organisation is primarily responsible for research and development of ministry of defence ?
+ES: i. ISRO
+ES: ii. DAE
+ES: iii. DRDO
+ES: iv. CSIR
+EO: A) i
+EO: B) ii
+EO: C) iii
+EO: D) iv
+
+@q 44
+STEM: ''കനകം മൂലം കാമിനി മൂലം കലഹം പലവിധം ഉലകിൽ സുലഭം'' എന്ന പ്രസിദ്ധമായ ശ്ലോകം ഏത് തുള്ളലിൽ നിന്നാണ് എടുത്തത് ?
+O: A) ബാലീവിജയം
+O: B) കല്യാണ സൗഗന്ധികം
+O: C) കിരാതം
+O: D) സ്യമന്തകം
+ANS: C
+EN: The famous verse "Kanakam moolam Kamini moolam Kalaham Palavidham Ulakil Sulabham" is taken from which Thullal ?
+EO: A) Balivijayam
+EO: B) Kallyana Sougandhikam
+EO: C) Kiratham
+EO: D) Syamandakam
+
+@q 45
+STEM: യുഎസ് ഓപ്പൺ ടെന്നീസിന്റെ ക്വാർട്ടർ ഫൈനലിൽ നിലവിലെ ചാമ്പ്യൻ കാർലോസ് അൽകാരാസിനെ പരാജയപ്പെടുത്തിയത് ആരാണ് ?
+O: A) ബെൻ ഷെൽട്ടൺ
+O: B) ജാനിക് സിന്നർ
+O: C) നൊവാക് ജോക്കോവിച്ച്
+O: D) ഫ്രാൻസെസ് ടിയാഫോ
+ANS: A
+EN: Who upset defending Champion Carlos Alcaraz in the quarter finals of the US Open Tennis ?
+EO: A) Ben Shelton
+EO: B) Jannik Sinner
+EO: C) Novak Djokovic
+EO: D) Frances Tiafoe
+
+@q 46
+STEM: ഏത് നോവലിലാണ് ഗോപാൽ ബറുവ എന്ന കഥാപാത്രം പ്രത്യക്ഷപ്പെടുന്നത് ?
+O: A) സിൻ
+O: B) ആരാച്ചാർ
+O: C) ഉഷ്ണരാശി
+O: D) തപോമയിയുടെ അച്ഛൻ
+ANS: D
+EN: In which novel does the character Gopal Baruah appear ?
+EO: A) Zin
+EO: B) Aarachaar
+EO: C) Ushnarashi
+EO: D) Thapomayiyude Achan
+
+@q 47
+STEM: ''അങ്ങനെ വളർന്ന അമര വല്ലിയാ'' എന്നത് ഏത് പ്രശസ്ത മലയാള സാഹിത്യകൃതിയുടെ ആദ്യ വരിയാണ് ?
+O: A) ആലാഹയുടെ പെൺമക്കൾ
+O: B) ഒറോത
+O: C) ഉഷ്ണമേഖല
+O: D) ഉമ്മാച്ചു
+ANS: A
+EN: "Angane Valarnna Amara Valliya" This is the opening line of which famous malayalam literary work ?
+EO: A) Aalahayude Pennmakkal
+EO: B) Orotha
+EO: C) Ushnameghala
+EO: D) Ummachu
+
+@q 48
+STEM: 'കൂടാശ' എന്ന പദം മലയാള ഭാഷയിലേക്ക് ഏത് ഭാഷയിൽ നിന്നാണ് വന്നത് ?
+O: A) അറബി
+O: B) ലാറ്റിൻ
+O: C) പേർഷ്യൻ
+O: D) സിറിയാക്
+ANS: D
+EN: From which language did the word 'Koodasha' come into malayalam ?
+EO: A) Arabic
+EO: B) Latin
+EO: C) Persian
+EO: D) Syriac
+
+@q 49
+STEM: എം-സഹജീവനം പോർട്ടലിനെക്കുറിച്ചുള്ള താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ശരിയായത് ഏതാണ്/ഏതൊക്കെയാണ് ?
+S: i. ഈ പോർട്ടൽ മലപ്പുറം ജില്ലയുമായി ബന്ധപ്പെട്ടതാണ്.
+S: ii. അനാഥരായ വ്യക്തികൾക്കായുള്ള ഒരു പോർട്ടലാണിത്.
+S: iii. ജില്ലാ ഭരണകൂടവും സാമൂഹ്യനീതി വകുപ്പും ചേർന്നാണ് ഈ പോർട്ടൽ വികസിപ്പിച്ചത്.
+O: A) i ഉം ii ഉം മാത്രം
+O: B) ii ഉം iii ഉം മാത്രം
+O: C) i ഉം iii ഉം മാത്രം
+O: D) മുകളിൽ പറഞ്ഞവയെല്ലാം (i, ii and iii)
+ANS: C
+EN: Which of the following statement is/are correct about M-Sahajeevanam portal ?
+ES: i. The portal is related to Malappuram district.
+ES: ii. It is a portal for orphaned persons.
+ES: iii. The portal is developed by district Administration and Social Justice.
+EO: A) Only i and ii
+EO: B) Only ii and iii
+EO: C) Only i and iii
+EO: D) All of the above (i, ii and iii)
+
+@q 50
+STEM: പതിനെട്ടാമത് ബ്രിക്സ് (BRICS) ഉച്ചകോടിയിൽ അബി അഹമ്മദ് അലി ഏത് രാജ്യത്തെ പ്രതിനിധീകരിച്ചു ?
+O: A) ഈജിപ്ത്
+O: B) എത്യോപ്യ
+O: C) ഇന്തോനേഷ്യ
+O: D) മലേഷ്യ
+ANS: B
+EN: Which country was represented by Abiy Ahmed Ali at the 18th BRICS Summit ?
+EO: A) Egypt
+EO: B) Ethiopia
+EO: C) Indonesia
+EO: D) Malaysia
+
+@q 51
+STEM: ഒരു കമ്പ്യൂട്ടറിലേക്ക് ടെക്സ്റ്റും സംഖ്യാ ഡാറ്റയും നൽകുന്നതിന് പ്രധാനമായും ഉപയോഗിക്കുന്ന ഇൻപുട്ട് ഉപകരണം താഴെ പറയുന്നവയിൽ ഏതാണ് ?
+O: A) മോണിറ്റർ
+O: B) കീബോർഡ്
+O: C) പ്രിന്റർ
+O: D) സ്പീക്കർ
+ANS: B
+EN: Which of the following is an input device primarily used for entering text and numerical data into a computer ?
+EO: A) Monitor
+EO: B) Keyboard
+EO: C) Printer
+EO: D) Speaker
+
+@q 52
+STEM: ഇനിപ്പറയുന്ന പ്രസ്താവനകളിൽ വെബ് ബ്രൗസറും സെർച്ച് എഞ്ചിനും തമ്മിലുള്ള വ്യത്യാസം ശരിയായി വ്യക്തമാക്കുന്നത് ഏതാണ് ?
+O: A) ഒരു ബ്രൗസർ ചിത്രങ്ങൾ മാത്രമേ തിരയുകയുള്ളൂ, അതേസമയം ഒരു സെർച്ച് എഞ്ചിൻ വെബ് പേജുകൾ പ്രദർശിപ്പിക്കുന്നു.
+O: B) വെബ് പേജുകൾ ആക്സസ് ചെയ്യുന്നതിനാണ് ബ്രൗസർ ഉപയോഗിക്കുന്നത്, അതേസമയം വെബിൽ വിവരങ്ങൾ കണ്ടെത്താൻ സെർച്ച് എഞ്ചിൻ സഹായിക്കുന്നു.
+O: C) ഒരു ബ്രൗസർ വെബ്സൈറ്റുകൾ സ്ഥിരമായി സംഭരിക്കുന്നു, അതേസമയം ഒരു സെർച്ച് എഞ്ചിൻ വെബ്സൈറ്റുകൾ സൃഷ്ടിക്കുന്നു.
+O: D) ബ്രൗസറും സെർച്ച് എഞ്ചിനും കൃത്യമായി ഒന്നുതന്നെയാണ് ചെയ്യുന്നത്.
+ANS: B
+EN: Which of the following statements correctly distinguishes a web browser from a search engine ?
+EO: A) A browser searches only images, while a search engine displays web pages.
+EO: B) A browser is used to access web pages, while a search engine helps locate information on the web.
+EO: C) A browser stores websites permanently, while a search engine creates websites.
+EO: D) A browser and a search engine are exactly the same.
+
+@q 53
+STEM: ഒരു വ്യക്തിക്ക് യഥാർത്ഥമെന്ന് തോന്നിക്കുന്ന ഒരു ഇമെയിൽ ലഭിക്കുന്നു. അതിലെ ഒരു ലിങ്കിൽ ക്ലിക്ക് ചെയ്ത് ബാങ്ക് ലോഗിൻ വിവരങ്ങൾ നൽകാൻ ആവശ്യപ്പെടുന്നു. എന്നാൽ യഥാർത്ഥത്തിൽ ആ വിവരങ്ങൾ മോഷ്ടിക്കുന്നതിനായി തയ്യാറാക്കിയ ഇമെയിലാണത്. ഈ സൈബർ കുറ്റകൃത്യത്തെ ഏറ്റവും ശരിയായി വിശേഷിപ്പിക്കുന്നത് ഏത് ?
+O: A) ഫിഷിംഗ്
+O: B) ഡാറ്റ കംപ്രഷൻ
+O: C) സോഫ്റ്റ്‌വെയർ പൈറസി
+O: D) ഡിനയൽ ഓഫ് സർവീസ് ആക്രമണം
+ANS: A
+EN: A person receives an apparently genuine email asking them to click a link and provide their bank login credentials. The email is actually designed to steal the information. This cyber wrong is best described as
+EO: A) Phishing
+EO: B) Data compression
+EO: C) Software piracy
+EO: D) Denial-of-service attack
+
+@q 54
+STEM: 2026 സെപ്റ്റംബറിൽ, AI ഏജന്റുകൾക്ക് UPI വഴി ചില ചെറിയ ഡിജിറ്റൽ പേയ്മെന്റുകൾ നടത്താൻ അനുവദിക്കുന്ന ഒരു ചട്ടക്കൂട് തയ്യാറാക്കുന്നതായി ഇന്ത്യ റിപ്പോർട്ട് ചെയ്തിരുന്നു. ഈ വികസനം പ്രതിനിധീകരിക്കുന്ന പ്രധാന സാങ്കേതിക പ്രവണത ഏതാണ് ?
+O: A) ബ്ലോക്ക്ചെയിൻ അധിഷ്ഠിത വോട്ടിംഗ്
+O: B) ഏജന്റിക് AI-പ്രവർത്തനക്ഷമമാക്കിയ ഡിജിറ്റൽ പേയ്മെന്റുകൾ
+O: C) സാറ്റലൈറ്റ്-അധിഷ്ഠിത ബാങ്കിംഗ്
+O: D) ATM ഇടപാടുകളുടെ ക്വാണ്ടം എൻക്രിപ്ഷൻ
+ANS: B
+EN: In September 2026, India was reported to be preparing a framework that would allow AI agents to conduct certain small digital payments through UPI. What is the key technology trend represented by this development ?
+EO: A) Blockchain-based voting
+EO: B) Agentic AI-enabled digital payments
+EO: C) Satellite-based banking
+EO: D) Quantum encryption of ATM transactions
+
+@q 55
+STEM: 2026 ഓഗസ്റ്റിൽ ആരംഭിച്ച, ഗോത്രവർഗ ക്ഷേമ പദ്ധതികളെയും പരിപാടികളെയും കുറിച്ചുള്ള വിവരങ്ങൾ എളുപ്പത്തിൽ ലഭ്യമാക്കുന്നതിനായി രൂപകൽപ്പന ചെയ്ത AI അധിഷ്ഠിത സംഭാഷണ സഹായ സംവിധാനം ഏതാണ് ?
+O: A) AIKosh
+O: B) Jago
+O: C) BharatGen
+O: D) GENESIS EIR
+ANS: B
+EN: Which of the following Indian government initiatives, launched in August 2026, is an AI-powered conversational assistant intended to make information about tribal welfare schemes and programmes easier to access ?
+EO: A) AIKosh
+EO: B) Jago
+EO: C) BharatGen
+EO: D) GENESIS EIR
+
+@q 56
+STEM: 1948-ലെ യൂണിവേഴ്സിറ്റി എജ്യുക്കേഷൻ കമ്മീഷനെ സംബന്ധിച്ച താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ്/ഏതൊക്കെയാണ് ശരി ?
+S: 1. സർവകലാശാലകൾക്ക് ഗ്രാന്റുകൾ അനുവദിക്കുന്നതിനായി, ബ്രിട്ടീഷ് യൂണിവേഴ്സിറ്റി ഗ്രാന്റ് കമ്മിറ്റിയുടെ മാതൃകയിൽ യൂണിവേഴ്സിറ്റി ഗ്രാന്റ്സ് കമ്മീഷൻ (UGC) രൂപീകരിക്കണമെന്ന് ശുപാർശ ചെയ്തു.
+S: 2. കർശനമായ മതനിരപേക്ഷത നിലനിർത്തുന്നതിനായി കോളേജുകളിലെ എല്ലാ ധാർമ്മികവും ആത്മീയവുമായ വിദ്യാഭ്യാസവും പൂർണ്ണമായും നിർത്തലാക്കണമെന്ന് നിർദ്ദേശിച്ചു.
+S: 3. പരീക്ഷാ കാലയളവ് ഒഴിവാക്കി, ഒരു സർവകലാശാലാ അധ്യയന വർഷത്തിൽ കുറഞ്ഞത് 180 പ്രവൃത്തി ദിനങ്ങൾ ഉണ്ടായിരിക്കണമെന്ന് നിർദ്ദേശിച്ചു.
+O: A) പ്രസ്താവന 1 മാത്രം ശരിയാണ്
+O: B) പ്രസ്താവനകൾ 1 ഉം 2 ഉം മാത്രം ശരിയാണ്
+O: C) പ്രസ്താവനകൾ 1 ഉം 3 ഉം മാത്രം ശരിയാണ്
+O: D) പ്രസ്താവനകൾ 1, 2, 3 എല്ലാം ശരിയാണ്
+ANS: C
+EN: Which of the following statements regarding the University Education Commission (1948) is/are correct ?
+ES: 1. Recommended the creation of a University Grants Commission (UGC) modelled on the British University Grant Committee to allocate grants to Universities.
+ES: 2. It advocated for the complete abolition of all moral and spiritual instruction in colleges to maintain strict secularism.
+ES: 3. It suggested that a University academic year should have at least 180 working days, excluding examination periods.
+EO: A) Only statement 1 is correct
+EO: B) Only statements 1 and 2 are correct
+EO: C) Only statements 1 and 3 are correct
+EO: D) Statements 1, 2 and 3 are correct
+
+@q 57
+STEM: 1948-1949-ലെ യൂണിവേഴ്സിറ്റി എജ്യുക്കേഷൻ കമ്മീഷനിൽ അംഗമായും 1952-53-ലെ സെക്കൻഡറി എജ്യുക്കേഷൻ കമ്മീഷന്റെ ചെയർമാനായും പ്രവർത്തിച്ച പ്രമുഖ ഇന്ത്യൻ വിദ്യാഭ്യാസ വിദഗ്ധൻ ആരാണ് ?
+O: A) ഡോ. ഈശ്വർ ഭായ് പട്ടേൽ
+O: B) ഡോ. എ. ലക്ഷ്മണസ്വാമി മുദലിയാർ
+O: C) ഡോ. ദൗലത് സിംഗ് കോത്താരി
+O: D) ഡോ. എസ്. രാധാകൃഷ്ണൻ
+ANS: B
+EN: Who was the prominent Indian Educationalist who served as a member in the University Education Commission (1948-1949) and the Chairman of Secondary Education Commission (1952-53) ?
+EO: A) Dr. Ishwar Bhai Patel
+EO: B) Dr. A. Lakshmanaswami Mudaliar
+EO: C) Dr. Daulat Singh Kothari
+EO: D) Dr. S. Radhakrishnan
+
+@q 58
+STEM: UGC ആക്ട്, 1956-നെ സംബന്ധിച്ച താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ്/ഏതൊക്കെയാണ് ശരി ?
+S: a. 1956-ലെ UGC ആക്ട് 2(f) വകുപ്പ് പ്രകാരം കേന്ദ്ര/സംസ്ഥാന നിയമം വഴി സർവകലാശാലകൾ സ്ഥാപിക്കപ്പെടുന്നു.
+S: b. 1956-ലെ UGC ആക്ട് വകുപ്പ് (3) പ്രകാരം, UGC യുടെ ഉപദേശപ്രകാരം കേന്ദ്രസർക്കാർ പുറപ്പെടുവിക്കുന്ന വിജ്ഞാപനത്തിലൂടെയാണ് Deemed to be University ആയി പ്രഖ്യാപിക്കുന്നത്.
+O: A) പ്രസ്താവന a യും b യും ശരിയാണ്
+O: B) പ്രസ്താവന a യും b യും തെറ്റാണ്
+O: C) പ്രസ്താവന a മാത്രം ശരിയാണ്
+O: D) പ്രസ്താവന b മാത്രം ശരിയാണ്
+ANS: A
+EN: Which of the following statements regarding UGC Act, 1956 is/are correct ?
+ES: a. Universities are established by Central/State Act under 2(f) of the UGC Act, 1956.
+ES: b. Deemed to be University is declared by a notification of the Central Government on the advice of the UGC under section (3) of the UGC Act, 1956.
+EO: A) Statements a and b are correct
+EO: B) Statements a and b are wrong
+EO: C) Only statement a is correct
+EO: D) Only statement b is correct
+
+@q 59
+STEM: താഴെ പറയുന്നവയിൽ ഏതാണ് 1964-66-ലെ കോത്താരി കമ്മീഷന്റെ ശുപാർശയിൽ ഉൾപ്പെടാത്തത് ?
+O: A) 6 മുതൽ 14 വയസ്സ് വരെയുള്ള എല്ലാ കുട്ടികൾക്കും സൗജന്യവും നിർബന്ധിതവുമായ വിദ്യാഭ്യാസം
+O: B) പൊതു സ്കൂൾ സമ്പ്രദായം
+O: C) ത്രിഭാഷാ ഫോർമുല
+O: D) നവോദയ വിദ്യാലയം
+ANS: D
+EN: Which among the following is not a recommendation of the Kothari Commission 1964-66 ?
+EO: A) Free and Compulsory Education for all children in the 6 to 14 age group
+EO: B) Common School System
+EO: C) Three-language Formula
+EO: D) Navodaya Vidyalaya
+
+@q 60
+STEM: 2005-ലെ നാഷണൽ നോളേജ് കമ്മീഷനെക്കുറിച്ചുള്ള താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ്/ഏതൊക്കെയാണ് ശരി ?
+S: 1. ഇന്ത്യയുടെ അന്നത്തെ പ്രധാനമന്ത്രി മൻമോഹൻ സിംഗ് 2005-ജൂൺ 13-ന് നാഷണൽ നോളേജ് കമ്മീഷൻ രൂപീകരിച്ചു.
+S: 2. സാം പിത്രോദ ആയിരുന്നു കമ്മീഷന്റെ ചെയർമാൻ.
+S: 3. 2014 ജൂലൈയിൽ നാഷണൽ നോളേജ് കമ്മീഷൻ നിർത്തലാക്കി.
+S: 4. ഇന്ത്യയെ ഒരു അറിവ് അധിഷ്ഠിത സമ്പദ്‌വ്യവസ്ഥയായി മാറ്റുക എന്ന പ്രധാന ലക്ഷ്യത്തോടെയാണ് ഇത് പ്രവർത്തിച്ചത്.
+O: A) പ്രസ്താവന 1 ശരിയാണ്
+O: B) പ്രസ്താവനകൾ 1 ഉം 2 ഉം ശരിയാണ്
+O: C) പ്രസ്താവനകൾ 1, 2, 3 എന്നിവ ശരിയാണ്
+O: D) പ്രസ്താവനകൾ 1, 2, 3, 4 എന്നിവയെല്ലാം ശരിയാണ്
+ANS: D
+EN: Which of the following statements regarding National Knowledge Commission 2005 is/are correct ?
+ES: 1. It was constituted on 13 June 2005, by the then Prime Minister of India, Manmohan Singh.
+ES: 2. Sam Pitroda, was the Chairman.
+ES: 3. In July 2014, the National Knowledge Commission was abolished.
+ES: 4. Operated with the key objective to transform India into a knowledge-based economy.
+EO: A) Statement 1 is correct
+EO: B) Statements 1 and 2 are correct
+EO: C) Statements 1, 2 and 3 are correct
+EO: D) Statements 1, 2, 3 and 4 are correct
+
+@q 61
+STEM: താഴെ നൽകിയിരിക്കുന്ന പ്രസ്താവനകളുടെ അടിസ്ഥാനത്തിൽ, നൽകിയിരിക്കുന്ന ഓപ്ഷനുകളിൽ നിന്ന് ഏറ്റവും അനുയോജ്യമായ ഉത്തരം തിരഞ്ഞെടുക്കുക.
+S: പ്രസ്താവന (I) : യൂണിവേഴ്സിറ്റി ഗ്രാന്റ്സ് കമ്മീഷൻ (UGC) 1953 ഡിസംബർ 28-ന് നിലവിൽ വന്നു. 1956-ൽ പാർലമെന്റ് പാസാക്കിയ നിയമപ്രകാരം ഇത് ഇന്ത്യ ഗവൺമെന്റിന്റെ ഒരു നിയമപരമായ സ്ഥാപനമായി മാറി.
+S: പ്രസ്താവന (II) : രാജ്യത്തുടനീളമുള്ള അർഹരായ സർവകലാശാലകൾക്കും കോളേജുകൾക്കും ഗ്രാന്റുകളും സാമ്പത്തിക സഹായവും നൽകുന്നത് UGC-യുടെ പ്രവർത്തനങ്ങളിൽ ഉൾപ്പെടുന്നില്ല.
+S: പ്രസ്താവന (III) : സർവകലാശാലാ വിദ്യാഭ്യാസത്തിന്റെ പ്രോത്സാഹനത്തിനും ഏകോപനത്തിനും, സർവകലാശാലകളിലെ അധ്യാപനം, പരീക്ഷ, ഗവേഷണം എന്നിവയുടെ നിലവാരം നിർണയിക്കുകയും പരിപാലിക്കുകയും ചെയ്യുന്നതിനുമായി UGC സ്ഥാപിക്കപ്പെട്ടു.
+O: A) പ്രസ്താവന I ഉം പ്രസ്താവന III ഉം തെറ്റാണ്.
+O: B) പ്രസ്താവന I ശരിയാണ്, എന്നാൽ പ്രസ്താവന II ഉം III ഉം തെറ്റാണ്.
+O: C) പ്രസ്താവന I ഉം പ്രസ്താവന III ഉം ശരിയാണ്.
+O: D) പ്രസ്താവന I തെറ്റാണ്, എന്നാൽ പ്രസ്താവന II ഉം III ഉം ശരിയാണ്.
+ANS: C
+EN: In the light of the statements given below, select the most appropriate answer from the options given below.
+ES: Statement (I) : The University Grants Commission (UGC) came into existence on 28th December, 1953 and became a statutory organization of the Government of India by an Act of Parliament in 1956.
+ES: Statement (II) : The function of the UGC does not includes providing grants and financial assistance to eligible universities and colleges across the country.
+ES: Statement (III) : It established for the promotion and coordination of University education and for the determination and maintenance of standards of teaching, examination and research in universities.
+EO: A) Statement I and Statement III are false.
+EO: B) Statement I is true, but Statement II and III are false.
+EO: C) Statement I and Statement III are true.
+EO: D) Statement I is false, but Statement II and III are true.

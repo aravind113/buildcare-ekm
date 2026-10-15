@@ -1,0 +1,320 @@
+@q 22
+STEM: ഇനിപ്പറയുന്നവ പൊരുത്തപ്പെടുത്തുക.
+S: i. ജീവിക്കാനുള്ള അവകാശം — a. കുറ്റകൃത്യത്തിന്റെ നിയമപരമായ അനുമാനം
+S: ii. പോസിറ്റീവ് വിവേചനം — b. നിയമം വഴി സ്ഥാപിതമായ നടപടിക്രമം
+S: iii. തൊട്ടുകൂടായ്മ നിർത്തലാക്കൽ — c. സ്വാതന്ത്ര്യത്തിനുള്ള അവകാശം
+S: iv. ഇരട്ട അപകടം — d. നിയമങ്ങളുടെ തുല്യ സംരക്ഷണം
+O: A) i-d, ii-a, iii-b, iv-c
+O: B) i-b, ii-d, iii-a, iv-c
+O: C) i-b, ii-c, iii-d, iv-a
+O: D) i-c, ii-b, iii-d, iv-a
+ANS: B
+EN: Match the following :
+ES: i. Right to life — a. Statutory presumption of offence
+ES: ii. Positive discrimination — b. Procedure Established by law
+ES: iii. Abolition of Untouchability — c. Right to Freedom
+ES: iv. Double jeopardy — d. Equal Protection of the Laws
+EO: A) i-d, ii-a, iii-b, iv-c
+EO: B) i-b, ii-d, iii-a, iv-c
+EO: C) i-b, ii-c, iii-d, iv-a
+EO: D) i-c, ii-b, iii-d, iv-a
+
+@q 23
+STEM: ഇന്ത്യൻ ഭരണഘടനയുമായി ബന്ധപ്പെട്ട് താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരിയായത് ?
+S: i. സുപ്രീം കോടതിയുടെ ഉപദേശക അധികാരപരിധിയിലൂടെ നൽകുന്ന അഭിപ്രായം ഇന്ത്യയുടെ രാഷ്ട്രപതിക്ക് ബാധകമാണ്.
+S: ii. അന്തർസംസ്ഥാന കൗൺസിൽ ഒരു നിയമപരമായ സ്ഥാപനമാണ്.
+S: iii. ലളിത ഭൂരിപക്ഷ ഭേദഗതി നടപടിക്രമത്തിലൂടെയാണ് GST നിലവിൽ വന്നത്.
+S: iv. മൗലികാവകാശം ലംഘിക്കപ്പെടുമ്പോൾ ആർട്ടിക്കിൾ 32 പ്രകാരം ഒരു വ്യക്തിക്ക് നേരിട്ട് സുപ്രീം കോടതിയെ സമീപിക്കാം.
+O: A) iv മാത്രം
+O: B) മുകളിൽ പറഞ്ഞവ ഒന്നുമല്ല
+O: C) ii ഉം iv ഉം
+O: D) i ഉം iii ഉം
+ANS: A
+EN: Which one of the following statements are correct with regard to the Constitution of India ?
+ES: i. Advisory jurisdiction of the Supreme Court is binding on the President of India.
+ES: ii. Inter-State Council is a statutory body.
+ES: iii. GST came into being through simple majority amendment procedure.
+ES: iv. Under Art. 32 person can directly approach the Supreme Court when a fundamental right is violated.
+EO: A) iv only
+EO: B) None of the above
+EO: C) ii and iv
+EO: D) i and iii
+
+@q 24
+STEM: നാരി ശക്തി വന്ദൻ അധിനിയവുമായി ബന്ധപ്പെട്ട് താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരിയായത് ?
+S: i. ലോക്സഭ, സംസ്ഥാന നിയമസഭകൾ, ദേശീയ തലസ്ഥാന പ്രദേശമായ ഡൽഹിയുടെ നിയമസഭ എന്നിവിടങ്ങളിൽ സ്ത്രീകൾക്ക് 23 ശതമാനം സംവരണം നിർബന്ധമാക്കുന്നു.
+S: ii. ഇത് നടപ്പിലാക്കുന്നതിന് ഔദ്യോഗിക ജനസംഖ്യാ സെൻസസ് പൂർത്തിയാക്കേണ്ടതുണ്ട്.
+S: iii. ഇത് 101-ാം ഭരണഘടനാ ഭേദഗതി നിയമം, 2016 അടിസ്ഥാനമാക്കിയുള്ളതാണ്.
+O: A) i ഉം ii ഉം
+O: B) i ഉം iii ഉം
+O: C) മുകളിൽ പറഞ്ഞവ ഒന്നുമല്ല
+O: D) ii മാത്രം
+ANS: D
+EN: Which of the following statements are true with regard to Nari Shakti Vandan Adhiniyam ?
+ES: i. mandates 23 percent reservation for women in Lok Sabha, state legislative assemblies and legislative assembly of the National Capital Territory of Delhi.
+ES: ii. Its implementation requires the completion of the official population census.
+ES: iii. It is based on 101st Constitutional Amendment Act, 2016.
+EO: A) i and ii
+EO: B) i and iii
+EO: C) None of the above
+EO: D) ii only
+NOTE: പ്രസ്താവന i-ൽ സംവരണ ശതമാനം 23 എന്ന് ഇരു ഭാഷകളിലും അച്ചടിച്ചിരിക്കുന്നു (യഥാർത്ഥത്തിൽ 33 ശതമാനമാണ്); അച്ചടിപ്പിശകായി സംശയിക്കാം. ഉത്തരസൂചിക (D) മാറ്റിയിട്ടില്ല.
+
+@q 25
+STEM: പട്ടിക-I നെ പട്ടിക II-മായി യോജിപ്പിച്ച്, താഴെ നൽകിയിരിക്കുന്ന കോഡുകൾ ഉപയോഗിച്ച് ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുക.
+S: പട്ടിക – I — പട്ടിക – II
+S: a. സംസ്ഥാന മനുഷ്യാവകാശ കമ്മീഷൻ — 1. വി. ഹരി നായർ
+S: b. സംസ്ഥാന തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ — 2. ശേഖരൻ മിനിയോടൻ
+S: c. കേരള സംസ്ഥാന പട്ടിക-ജാതിപട്ടികവർഗ്ഗ കമ്മീഷൻ — 3. ശ്രീ. ശേഷാദ്രിനാഥൻ എൻ.
+S: d. ചീഫ് ഇൻഫർമേഷൻ കമ്മീഷണർ (RTI) — 4. കെ. സോമപ്രസാദ്
+S: e. കേരള സംസ്ഥാന മുതിർന്ന പൗരന്മാരുടെ കമ്മീഷൻ — 5. ശ്രീ. ജസ്റ്റിസ് അലക്സാണ്ടർ തോമസ്
+O: A) a-5, b-2, c-1, d-3, e-4
+O: B) a-4, b-3, c-2, d-1, e-5
+O: C) a-1, b-4, c-3, d-5, e-2
+O: D) a-5, b-3, c-2, d-1, e-4
+ANS: D
+EN: Match the following List – I with List – II and select the correct answer using the codes given below.
+ES: List – I — List – II
+ES: a. State Human Rights Commission — 1. V. Hari Nair
+ES: b. State Election Commission — 2. Sekharan Miniyodan
+ES: c. The Kerala State Commission for Scheduled Castes and Scheduled Tribes — 3. Sri. Seshadrinathan N.
+ES: d. Chief Information Commissioner (RTI) — 4. K. Somaprasad
+ES: e. Kerala State Senior Citizens Commission — 5. Shri. Justice Alexander Thomas
+EO: A) a-5, b-2, c-1, d-3, e-4
+EO: B) a-4, b-3, c-2, d-1, e-5
+EO: C) a-1, b-4, c-3, d-5, e-2
+EO: D) a-5, b-3, c-2, d-1, e-4
+
+@q 26
+STEM: താഴെപ്പറയുന്ന ജോഡികളിൽ പൊരുത്തപ്പെടാത്തത് ഏതാണ്/ഏതൊക്കെയാണ് ?
+S: 1. ഡിജി കേരളം : കേരള സംസ്ഥാന സാക്ഷരതാ മിഷൻ
+S: 2. അക്ഷരസാഗരം : തദ്ദേശ സ്വയംഭരണ വകുപ്പ്
+S: 3. ജെൻഡർ റെസ്പോൺസീവ് ബജറ്റിംഗ് (GRB) : 2005-ൽ കേരള സർക്കാർ ആരംഭിച്ചത്
+S: 4. മലബാർ ലിറ്റററി ടൂറിസം സർക്യൂട്ട് : കോഴിക്കോട്, മലപ്പുറം, പാലക്കാട് ജില്ലകളിലെ നിരവധി മലയാള സാഹിത്യപ്രതിഭകളുടെ വീടുകളെ ബന്ധിപ്പിക്കുന്നത്.
+S: 5. കോഴിക്കോട് : സാഹിത്യ നഗരവും കേരള ലിറ്ററേച്ചർ ഫെസ്റ്റിവലിന്റെ വേദിയും
+O: A) 1 മാത്രം
+O: B) 1 ഉം 2 ഉം മാത്രം
+O: C) 1, 2, 3
+O: D) 3 മാത്രം
+ANS: C
+EN: Which of the following pair/s is/are not matching ?
+ES: 1. Digi Keralam : Kerala State Literacy Mission
+ES: 2. Aksharasagaram : Local Self Government Department
+ES: 3. Gender Responsive Budgeting (GRB) : Started in 2005 by the Government of Kerala
+ES: 4. The Malabar Literary Tourism Circuit : Connecting homes of many Malayalam literary giants of the districts of Kozhikode, Malappuram and Palakkad
+ES: 5. Kozhikode : City of Literature and Kerala Literature Festival
+EO: A) Only 1
+EO: B) Only 1 and 2
+EO: C) 1, 2 and 3
+EO: D) Only 3
+
+@q 27
+STEM: താഴെപ്പറയുന്ന പ്രകൃതിന്യായ തത്വങ്ങളിൽ ശരിയായി പൊരുത്തപ്പെടാത്തത് ഏതാണ് ?
+S: 1. കോസ സുവയിലെ നെമോ ജുഡെക്സ് – ഒരു വ്യക്തിയും സ്വന്തം കേസിൽ സ്വയം ന്യായാധിപനാകരുത്.
+S: 2. ഓഡി ആൾട്ടേരം പാർട്ടെം – ‘‘മറുവശവും കേൾക്കുക’’ എന്നർത്ഥം.
+S: 3. യുക്തിസഹമായ തീരുമാനം – സുതാര്യത, നീതിയുക്തത, ഉത്തരവാദിത്തം എന്നിവ ഉറപ്പാക്കുന്നതിനായി കാരണസഹിതമായ തീരുമാനങ്ങൾ നൽകണമെന്ന വ്യവസ്ഥ.
+O: A) 1 മാത്രം
+O: B) 2 മാത്രം
+O: C) 1 ഉം 2 ഉം മാത്രം
+O: D) മുകളിൽ പറഞ്ഞവയിൽ ഒന്നുമല്ല
+ANS: D
+EN: Which Principle/s of Natural Justice of the following is/are not a correct match ?
+ES: 1. Nemo Judex in Causa Sua – no person should be a judge in his own cause.
+ES: 2. Audi Alteram Partem – means ‘‘hear the other side.”
+ES: 3. Reasoned decision – the requirement of reasoned decisions ensuring transparency, fairness, and accountability.
+EO: A) Only 1
+EO: B) Only 2
+EO: C) Both 1 and 2
+EO: D) None of the above
+
+@q 28
+STEM: താഴെ കൊടുത്തിരിക്കുന്ന ലിസ്റ്റ് I (ഭരണഘടനയുടെ ആർട്ടിക്കിളുകൾ) ലിസ്റ്റ് II (വ്യവസ്ഥകൾ/ഉള്ളടക്കം) യുമായി പൊരുത്തപ്പെടുത്തി താഴെ നൽകിയിരിക്കുന്ന കോഡുകൾ ഉപയോഗിച്ച് ശരിയായ ഉത്തരം തിരഞ്ഞെടുക്കുക.
+S: ലിസ്റ്റ് – I (ഭരണഘടനാ ആർട്ടിക്കിളുകൾ) — ലിസ്റ്റ് – II (വ്യവസ്ഥകൾ/ഉള്ളടക്കം)
+S: a. ആർട്ടിക്കിൾ 13 (3) — 1. മൗലികാവകാശങ്ങൾ നടപ്പിലാക്കുന്നതിനും റിട്ട് പുറപ്പെടുവിക്കുന്നതിനുമുള്ള സുപ്രീം കോടതിയുടെ അധികാരം.
+S: b. ആർട്ടിക്കിൾ 13 (4) — 2. നിയമം സ്ഥാപിച്ച നടപടിക്രമം.
+S: c. ആർട്ടിക്കിൾ 21 — 3. ആർട്ടിക്കിൾ 368 പ്രകാരമുള്ള ഭരണഘടനാ ഭേദഗതികൾ ആർട്ടിക്കിൾ 13 പ്രകാരം ‘‘നിയമം’’ ആയി കണക്കാക്കില്ല.
+S: d. ആർട്ടിക്കിൾ 32 — 4. റിട്ടുകൾ പുറപ്പെടുവിക്കാനുള്ള ഹൈക്കോടതികളുടെ അധികാരം
+S: e. ആർട്ടിക്കിൾ 226 — 5. മൗലികാവകാശങ്ങളുമായി പൊരുത്തപ്പെടാത്ത നിയമങ്ങൾ, ഉത്തരവുകൾ, ഉപനിയമങ്ങൾ, ചട്ടങ്ങൾ, നിയന്ത്രണങ്ങൾ, വിജ്ഞാപനങ്ങൾ, ആചാരങ്ങൾ, അല്ലെങ്കിൽ നിയമത്തിന്റെ ശക്തിയുള്ള ഉപയോഗങ്ങൾ എന്നിവ അസാധുവായിരിക്കും.
+O: A) a-5, b-2, c-1, d-3, e-4
+O: B) a-1, b-4, c-3, d-5, e-2
+O: C) a-5, b-3, c-2, d-1, e-4
+O: D) a-4, b-3, c-2, d-1, e-5
+ANS: C
+EN: Match the following List – I (Articles of the Constitution) with List – II (Provisions/Content) and select the correct answer using the codes given below.
+ES: List – I (Constitutional Articles) — List – II (Provisions/Content)
+ES: a. Article 13 (3) — 1. Power of Supreme Court to enforce Fundamental Rights and to issue writs.
+ES: b. Article 13 (4) — 2. Procedure established by the law.
+ES: c. Article 21 — 3. Constitutional amendments under Article 368 are not Considered “law” under Article 13.
+ES: d. Article 32 — 4. Power of the High Courts to issue writs.
+ES: e. Article 226 — 5. Laws, orders, bye-laws, rules, regulations, notifications, customs, or usages having the force of law inconsistent with Fundamental Rights is void.
+EO: A) a-5, b-2, c-1, d-3, e-4
+EO: B) a-1, b-4, c-3, d-5, e-2
+EO: C) a-5, b-3, c-2, d-1, e-4
+EO: D) a-4, b-3, c-2, d-1, e-5
+
+@q 29
+STEM: താഴെ കൊടുത്തിരിക്കുന്നവ പൊരുത്തപ്പെടുത്തി താഴെ കൊടുത്തിരിക്കുന്ന കോഡുകളിൽ നിന്ന് ഉത്തരം തിരഞ്ഞെടുക്കുക.
+S: പട്ടിക – I — പട്ടിക – II
+S: a. ഹേബിയസ് കോർപ്പസ് — 1. അധികാരപരിധി ലംഘിക്കുന്നതോ സ്വാഭാവിക നീതിയുടെ തത്വങ്ങൾ ലംഘിക്കുന്നതോ ആയ ഭരണപരമായ അല്ലെങ്കിൽ അർദ്ധ-ന്യായിക ഉത്തരവുകൾ റദ്ദാക്കുന്നതിനും, അധികാരപരിധി കവിഞ്ഞ് തുടരുന്ന നടപടികളെ തടയുന്നതിനും പുറപ്പെടുവിക്കുന്ന റിട്ട്
+S: b. മാൻഡമസ് — 2. താഴ്ന്ന കോടതിയിലേക്കോ ട്രൈബ്യൂണലിലേക്കോ അർദ്ധ-ന്യായിക അധികാരിയിലേക്കോ ഉന്നത കോടതി പുറപ്പെടുവിക്കുന്ന റിട്ട്. ഒരു കേസിന്റെ രേഖകൾ പുനഃപരിശോധനയ്ക്കായി ഉന്നത കോടതിയിലേക്ക് കൈമാറാൻ നിർദ്ദേശിക്കുന്നതാണ് ഇത്
+S: c. സെർഷ്യോറാറി — 3. ഒരു പൊതു അധികാരി, സർക്കാർ സ്ഥാപനം, ട്രൈബ്യൂണൽ അല്ലെങ്കിൽ ഉദ്യോഗസ്ഥൻ നിയമപരമായി നിർവഹിക്കേണ്ട കടമ നിർവഹിക്കാൻ അവരോട് നിർദ്ദേശിച്ചുകൊണ്ട് കോടതി പുറപ്പെടുവിക്കുന്ന റിട്ട്
+S: d. നിരോധനം — 4. ഒരു പൊതുപദവി വഹിക്കുന്ന വ്യക്തിയോട്, ആ പദവി വഹിക്കാൻ തനിക്ക് ഏത് നിയമപരമായ അധികാരമാണുള്ളത് എന്ന് വ്യക്തമാക്കാൻ ആവശ്യപ്പെട്ടുകൊണ്ട് കോടതി പുറപ്പെടുവിക്കുന്ന റിട്ട്
+S: e. ക്വോ വാറന്റോ — 5. നിയമവിരുദ്ധമായ തടങ്കലിൽ നിന്ന് വ്യക്തിയുടെ സ്വാതന്ത്ര്യം സംരക്ഷിക്കുന്നു
+O: A) a-5, b-2, c-1, d-3, e-4
+O: B) a-5, b-3, c-2, d-1, e-4
+O: C) a-1, b-4, c-3, d-5, e-2
+O: D) a-4, b-3, c-2, d-1, e-5
+ANS: B
+EN: Match the following and select the answer from the codes given below.
+ES: List – I — List – II
+ES: a. Habeas Corpus — 1. A writ that quashes administrative or quasi-judicial orders that exceed jurisdiction or violate natural justice, or restrains ongoing excessive proceedings
+ES: b. Mandamus — 2. Writ issued by a higher court to a lower court, tribunal, or quasi-judicial authority, directing them to transfer the records of a case for review
+ES: c. Certiorari — 3. A writ issued by a court to a public authority, government body, tribunal, or officer, directing them to perform a duty that they are legally obligated to carry out
+ES: d. Prohibition — 4. Writ issued by a court to a person who occupies a public office, asking them to show under what legal authority they hold that position
+ES: e. Quo Warranto — 5. Protects individual liberty against illegal detention
+EO: A) a-5, b-2, c-1, d-3, e-4
+EO: B) a-5, b-3, c-2, d-1, e-4
+EO: C) a-1, b-4, c-3, d-5, e-2
+EO: D) a-4, b-3, c-2, d-1, e-5
+
+@q 30
+STEM: അഡ്മിനിസ്ട്രേറ്റീവ് ട്രൈബ്യൂണലുകളെ സംബന്ധിച്ച താഴെ പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരിയല്ലാത്തത് ?
+S: 1. ഭരണഘടനയുടെ ഭാഗം XIV A-യിൽ അടങ്ങിയിരിക്കുന്ന ആർട്ടിക്കിൾ 323-A, പാർലമെന്റ് നിയമം വഴി അഡ്മിനിസ്ട്രേറ്റീവ് ട്രൈബ്യൂണലുകളുടെ വിധിനിർണ്ണയത്തിനോ വിചാരണയ്ക്കോ വ്യവസ്ഥ ചെയ്യുന്നുവെന്ന് വ്യക്തമാക്കുന്നു.
+S: 2. ഇന്ത്യൻ ഭരണഘടന (44-ാം ഭേദഗതി) നിയമത്തിലെ സെക്ഷൻ 46 പ്രകാരം, ഭാഗം XIV A ചേർത്തു.
+S: 3. 1985-ലെ അഡ്മിനിസ്ട്രേറ്റീവ് ട്രൈബ്യൂണൽ നിയമം പാർലമെന്റ് പാസാക്കി.
+S: 4. കേരള അഡ്മിനിസ്ട്രേറ്റീവ് ട്രൈബ്യൂണൽ 22-12-2009 ന് പ്രവർത്തനം ആരംഭിച്ചു. ബഹുമാനപ്പെട്ട ജസ്റ്റിസ് കെ. ബാലകൃഷ്ണൻ നായർ ആദ്യ ചെയർമാനായി.
+O: A) 1 ഉം 2 ഉം മാത്രം
+O: B) 2 ഉം 4 ഉം മാത്രം
+O: C) 2 ഉം 3 ഉം മാത്രം
+O: D) 1 ഉം 2 ഉം 4 ഉം മാത്രം
+ANS: B
+EN: Which of the following statement/s is/are not correct with regards to Administrative Tribunals ?
+ES: 1. Article 323-A contained in Part XIV A of the Constitution stipulates that Parliament by, law, provide for the adjudication or trial by Administrative Tribunals.
+ES: 2. By section 46 of the Indian Constitution (44th Amendment) Act, Part XIV A was inserted.
+ES: 3. Administrative Tribunal Act 1985 was enacted by the Parliament.
+ES: 4. The Kerala Administrative Tribunal was started functioning on 22-12-2009 with Honourable Mr. Justice K. Balakrishnan Nair as the First Chairman.
+EO: A) Only 1 and 2
+EO: B) Only 2 and 4
+EO: C) Only 2 and 3
+EO: D) Only 1, 2 and 4
+
+@q 31
+STEM: (I), (II) എന്നീ രണ്ട് പ്രസ്താവനകൾ പരിഗണിച്ച് ശരിയായ പ്രസ്താവന തിരഞ്ഞെടുക്കുക.
+S: I. ചെറുകുടൽ വൻകുടലിനേക്കാൾ നീളം കുറഞ്ഞതാണ്.
+S: II. ചെറുകുടൽ വൻകുടലിനേക്കാൾ കനം കുറഞ്ഞതാണ്.
+O: A) രണ്ട് പ്രസ്താവനകളും ശരിയാണ്
+O: B) രണ്ട് പ്രസ്താവനകളും തെറ്റാണ്
+O: C) പ്രസ്താവന I ശരിയാണ്, II തെറ്റാണ്
+O: D) പ്രസ്താവന II ശരിയാണ്, I തെറ്റാണ്
+ANS: D
+EN: Consider the following two statements (I) and (II) and select the correct option.
+ES: I. Small intestine is shorter than the large intestine.
+ES: II. Small intestine is thinner than large intestine.
+EO: A) Both statements are correct
+EO: B) Both statements are wrong
+EO: C) Statement I is correct, II is wrong
+EO: D) Statement II is correct, I is wrong
+
+@q 32
+STEM: താഴെ കൊടുത്തിരിക്കുന്ന ലക്ഷണങ്ങളെ അടിസ്ഥാനമാക്കി രോഗങ്ങളെ തിരിച്ചറിയുക.
+S: രോഗം | ലക്ഷണം
+S: X | കടുത്ത വയറിളക്കവും ഛർദ്ദിയും തുടർന്ന് നിർജ്ജലീകരണം
+S: Y | മഞ്ഞനിറമുള്ള കണ്ണുകൾ, കടും മഞ്ഞ മൂത്രം, വലുതായ കരൾ
+O: A) X – ഹെപ്പറ്റൈറ്റിസ്, Y – ട്രാക്കോമ
+O: B) X – അതിസാരം, Y – നേത്രപടലവീക്കം
+O: C) X – കോളറ, Y – ഹെപ്പറ്റൈറ്റിസ്
+O: D) X – കോളറ, Y – ട്രാക്കോമ
+ANS: C
+EN: Identify the diseases based on their symptoms given below.
+ES: Disease | Symptom
+ES: X | Severe diarrhoea and vomiting followed by dehydration
+ES: Y | Yellowish eyes, dark yellow urine and Enlarged liver
+EO: A) X – Hepatitis, Y – Trachoma
+EO: B) X – Dysentery, Y – Conjunctivitis
+EO: C) X – Cholera, Y – Hepatitis
+EO: D) X – Cholera, Y – Trachoma
+
+@q 33
+STEM: ലെപ്റ്റിൻ എന്ന ഹോർമോണിനെക്കുറിച്ച് താഴെപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരിയായത് ?
+S: i. ഈ ഹോർമോൺ പൊണ്ണത്തടിയുള്ള വ്യക്തികളിൽ ഉയർന്ന അളവിൽ കാണപ്പെടുന്നു, കൂടാതെ വിശപ്പ് നിയന്ത്രിക്കുന്നതിൽ ഇത് ഉൾപ്പെടുന്നു.
+S: ii. ശരീരത്തിൽ എത്രമാത്രം കൊഴുപ്പ് സംഭരിക്കപ്പെടുന്നുവെന്ന് ഇത് തലച്ചോറിനോട് പറയുന്നു.
+S: iii. ശരീരഭാരം കുറയ്ക്കുമ്പോൾ ലെപ്റ്റിന്റെ അളവ് കുറയുന്നത് തീവ്രമായ വിശപ്പിനും മെറ്റബോളിസത്തെ മന്ദഗതിയിലാക്കുന്നതിനും കാരണമാകുന്നു.
+O: A) i മാത്രം
+O: B) i ഉം ii ഉം
+O: C) i ഉം iii ഉം
+O: D) മുകളിൽ പറഞ്ഞവയെല്ലാം
+ANS: D
+EN: Which of the following statements hold true about hormone leptin ?
+ES: i. This hormone is found in higher levels in obese individuals and involved in regulation of appetite.
+ES: ii. It tells the brain how much fat is stored in the body.
+ES: iii. Low leptin levels during weight loss trigger intense hunger and slower metabolism.
+EO: A) i only
+EO: B) i and ii
+EO: C) i and iii
+EO: D) All the above
+
+@q 34
+STEM: നഗരങ്ങളിലെ തെരുവ് കച്ചവടക്കാർക്ക് ഈടില്ലാതെ പ്രവർത്തന മൂലധന വായ്പകൾ നൽകുന്ന കേന്ദ്രമേഖലാ സൂക്ഷ്മ വായ്പാ പദ്ധതി ഏതാണ് ?
+O: A) PM SVANidhi
+O: B) PMJVM
+O: C) Amrit Peedhi
+O: D) YUVAi
+ANS: A
+EN: A Central Sector micro-credit scheme providing collateral-free working capital loans to urban street vendors
+EO: A) PM SVANidhi
+EO: B) PMJVM
+EO: C) Amrit Peedhi
+EO: D) YUVAi
+NOTE: ഇംഗ്ലീഷ് പതിപ്പിൽ ചോദ്യം പൂർണ്ണവാക്യമല്ല (ചോദ്യചിഹ്നമോ "ഏതാണ്" എന്ന ഭാഗമോ ഇല്ല); മലയാള പതിപ്പിൽ "ഏതാണ് ?" ചേർത്തിരിക്കുന്നു.
+
+@q 35
+STEM: WMO പ്രകാരം, ഇപ്പോഴത്തെ വളരെ ശക്തമായ ‘എൽ നിനോ’ പ്രതിഭാസത്തിന്റെ പ്രതീക്ഷിക്കുന്ന ദൈർഘ്യം എത്രയാണ് ?
+O: A) ഡിസംബർ 2026 വരെ
+O: B) ഫെബ്രുവരി 2027 വരെ
+O: C) മാർച്ച് 2027 വരെ
+O: D) ജനുവരി 2027 വരെ
+ANS: B
+EN: According to WMO what is the expected duration of current very strong ‘El Nino’ event ?
+EO: A) Till December 2026
+EO: B) Till February 2027
+EO: C) Till March 2027
+EO: D) Till January 2027
+
+@q 36
+STEM: ഓഡിറ്റോറിയത്തിലെ പ്രതിധ്വനി കുറയ്ക്കാൻ താഴെപ്പറയുന്നവയിൽ ഏതാണ് ഉപയോഗിക്കുന്നത് ?
+O: A) വളരെ മിനുസപ്പെടുത്തിയ മാർബിൾ പ്രതലങ്ങൾ
+O: B) കട്ടിയുള്ള തിരശ്ശീലകളും ശബ്ദം ആഗിരണം ചെയ്യുന്ന വസ്തുക്കളും
+O: C) ലോഹ ഷീറ്റുകൾ
+O: D) വലിയ ഒഴിഞ്ഞ ചുവരുകൾ
+ANS: B
+EN: Reverberation in an auditorium can be reduced by using
+EO: A) Highly polished marble surfaces
+EO: B) Thick curtains and sound-absorbing materials
+EO: C) Metallic sheets
+EO: D) Large empty walls
+
+@q 37
+STEM: വാഹനങ്ങളിൽ പിൻകാഴ്ച കണ്ണാടിയായി സാധാരണയായി ഉപയോഗിക്കുന്നത് ഏത് കണ്ണാടിയാണ് ?
+O: A) സമതല കണ്ണാടി
+O: B) കോൺകേവ് കണ്ണാടി
+O: C) കോൺവെക്സ് കണ്ണാടി
+O: D) സിലിണ്ടർ കണ്ണാടി
+ANS: C
+EN: Which mirror is commonly used as a rear-view mirror in vehicles ?
+EO: A) Plane mirror
+EO: B) Concave mirror
+EO: C) Convex mirror
+EO: D) Cylindrical mirror
+
+@q 38
+STEM: ഹൈഡ്രോളിക് ബ്രേക്കുകൾ പ്രവർത്തിക്കുന്നത് ഏത് തത്വത്തിന്റെ അടിസ്ഥാനത്തിലാണ് ?
+O: A) ആർക്കിമിഡീസിന്റെ തത്വം
+O: B) ന്യൂട്ടന്റെ ഗുരുത്വാകർഷണ നിയമം
+O: C) ബെർനൂലിയുടെ തത്വം
+O: D) പാസ്കലിന്റെ നിയമം
+ANS: D
+EN: Hydraulic brakes work on the principle of
+EO: A) Archimedes’ principle
+EO: B) Newton’s law of gravitation
+EO: C) Bernoulli’s principle
+EO: D) Pascal’s law
