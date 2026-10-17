@@ -1,0 +1,249 @@
+@q 62
+STEM: NEP 2020 ൽ നിർദ്ദേശിച്ചിരിക്കുന്ന സ്കൂൾ വിദ്യാഭ്യാസത്തിന്റെ പുതിയ പാഠ്യഘടന ഏതാണ് ?
+O: A) അടിസ്ഥാന ഘട്ടം (4 വർഷം), തയ്യാറെടുപ്പ് ഘട്ടം (3 വർഷം), മധ്യ ഘട്ടം (3 വർഷം), സെക്കൻഡറി ഘട്ടം (2 വർഷം)
+O: B) അടിസ്ഥാന ഘട്ടം (5 വർഷം), തയ്യാറെടുപ്പ് ഘട്ടം (3 വർഷം), മധ്യ ഘട്ടം (3 വർഷം), സെക്കൻഡറി ഘട്ടം (4 വർഷം)
+O: C) തയ്യാറെടുപ്പ് ഘട്ടം (4 വർഷം), അടിസ്ഥാന ഘട്ടം (4 വർഷം), മധ്യ ഘട്ടം (4 വർഷം), സെക്കൻഡറി ഘട്ടം (2 വർഷം), ഹയർ സെക്കൻഡറി ഘട്ടം (2 വർഷം)
+O: D) തയ്യാറെടുപ്പ് ഘട്ടം (5 വർഷം), അടിസ്ഥാന ഘട്ടം (3 വർഷം), മധ്യ ഘട്ടം (3 വർഷം), സെക്കൻഡറി ഘട്ടം (2 വർഷം), ഹയർ സെക്കൻഡറി ഘട്ടം (2 വർഷം)
+ANS: B
+EN: What is the new curricular structure for school education proposed in NEP 2020 ?
+EO: A) Foundational Stage (4 years), Preparatory Stage (3 years), Middle Stage (3 years), Secondary Stage (2 years)
+EO: B) Foundational Stage (5 years), Preparatory Stage (3 years), Middle Stage (3 years), Secondary Stage (4 years)
+EO: C) Preparatory Stage (4 years), Foundational Stage (4 years), Middle Stage (4 years), Secondary Stage (2 years), Higher Secondary Stage (2 years)
+EO: D) Preparatory Stage (5 years), Foundational Stage (3 years), Middle Stage (3 years), Secondary Stage (2 years), Higher Secondary Stage (2 years)
+
+@q 63
+STEM: ഇന്ത്യയിലെ ആദ്യകാല ദേശീയ വിദ്യാഭ്യാസ ചട്ടക്കൂടുകളെ സ്വാധീനിച്ച അടിസ്ഥാനപരമായ 10+2+3 വിദ്യാഭ്യാസ ഘടന ശുപാർശ ചെയ്ത ചരിത്രപ്രധാനമായ കമ്മീഷൻ ഏതാണ് ?
+O: A) കോത്താരി കമ്മീഷൻ
+O: B) ഹണ്ടർ കമ്മീഷൻ
+O: C) രാധാകൃഷ്ണൻ കമ്മീഷൻ
+O: D) യൂണിവേഴ്സിറ്റി എജ്യൂക്കേഷൻ കമ്മീഷൻ
+ANS: A
+EN: Which historical commission recommended the foundational 10+2+3 educational structure that influenced early national education frameworks in India ?
+EO: A) Kothari Commission
+EO: B) Hunter Commission
+EO: C) Radhakrishnan Commission
+EO: D) University Education Commission
+
+@q 64
+STEM: ദേശീയ വിദ്യാഭ്യാസ നയം (NEP) 2020-ന്റെ കീഴിൽ സ്ഥാപിതമായ ദേശീയ മൂല്യനിർണ്ണയ കേന്ദ്രമായ ‘PARAKH’ എന്നതിന്റെ പൂർണ്ണരൂപം എന്താണ് ?
+O: A) Performance Assessment, Review, and Analysis of Knowledge for Holistic Development
+O: B) Performance Assessment, Review, and Analysis of Knowledge and Higher Development
+O: C) Performance Assessment, Review, and Analysis of Knowledge for Higher Education
+O: D) Performance and Research Assessment of Knowledge for Holistic Development
+ANS: A
+EN: What does the acronym ‘PARAKH’ stand for the National Assessment Centre established under the National Education Policy (NEP) 2020 ?
+EO: A) Performance Assessment, Review, and Analysis of Knowledge for Holistic development
+EO: B) Performance Assessment, Review, and Analysis of Knowledge and Higher development
+EO: C) Performance Assessment, Review, and Analysis of Knowledge for Higher Education
+EO: D) Performance and Research Assessment of Knowledge for Holistic development
+
+@q 65
+STEM: രാജ്യത്തെ എല്ലാ പ്രൈമറി സ്കൂളുകളിലും അവശ്യ സൗകര്യങ്ങൾ ഏറ്റവും കുറഞ്ഞ അളവിൽ സജ്ജമാക്കുക എന്ന ലക്ഷ്യത്തോടെയുള്ള ‘ഓപ്പറേഷൻ ബ്ലാക്ക്ബോർഡ്’ എന്ന പദ്ധതി താഴെപ്പറയുന്നവയിൽ ഏതാണ് ശുപാർശ ചെയ്തത് ?
+O: A) ദേശീയ വിദ്യാഭ്യാസ നയം, 1968
+O: B) ദേശീയ വിദ്യാഭ്യാസ നയം, 1986
+O: C) ദേശീയ പാഠ്യപദ്ധതി ചട്ടക്കൂട്, 1988
+O: D) വിദ്യാഭ്യാസ നയ അവലോകന സമിതി, 1990
+ANS: B
+EN: ‘Operation Blackboard’, a programme aimed at equipping all primary schools in the country with minimum essential facilities, was recommended by which of the following ?
+EO: A) National Education Policy, 1968
+EO: B) National Policy on Education, 1986
+EO: C) National Curriculum Framework, 1988
+EO: D) Education Policy Review Committee, 1990
+NOTE: ഇംഗ്ലീഷ് പതിപ്പിൽ A ഓപ്ഷൻ 'National Education Policy, 1968' എന്നും B 'National Policy on Education, 1986' എന്നുമാണ് അച്ചടിച്ചിട്ടുള്ളത്; മലയാളത്തിൽ രണ്ടും 'ദേശീയ വിദ്യാഭ്യാസ നയം' എന്നാണ്. അർത്ഥവ്യത്യാസമില്ല.
+
+@q 66
+STEM: ഇന്ത്യൻ ഭരണഘടനയുടെ ഏത് ആർട്ടിക്കിൾ ആണ് 6 മുതൽ 14 വയസ്സുവരെയുള്ള എല്ലാ കുട്ടികൾക്കും സൗജന്യവും നിർബന്ധിതവുമായ വിദ്യാഭ്യാസം മൗലികാവകാശമായി ഉറപ്പുനൽകുന്നത് ?
+O: A) ആർട്ടിക്കിൾ 19
+O: B) ആർട്ടിക്കിൾ 21A
+O: C) ആർട്ടിക്കിൾ 45
+O: D) ആർട്ടിക്കിൾ 51A
+ANS: B
+EN: Which Article of the Indian Constitution guarantees the right to free and compulsory education for all children between the ages of 6 and 14 years as a Fundamental Right ?
+EO: A) Article 19
+EO: B) Article 21A
+EO: C) Article 45
+EO: D) Article 51A
+
+@q 67
+STEM: ഇന്ത്യൻ വിദ്യാഭ്യാസ സമ്പ്രദായത്തിലെ താഴെപ്പറയുന്നവയിൽ ഏതെല്ലാം പ്രശ്നങ്ങൾ പരിഹരിക്കുന്നതിലാണ് യശ്പാൽ കമ്മിറ്റി (1993) പ്രധാനമായും ശ്രദ്ധ കേന്ദ്രീകരിച്ചത് ?
+O: A) സ്കൂളുകളിൽ വിവര, ആശയവിനിമയ സാങ്കേതികവിദ്യയുടെ ആമുഖം
+O: B) അധ്യാപക സ്വയംഭരണം
+O: C) പാഠ്യപദ്ധതി ഭാരവും പഠന സാമഗ്രികളുടെ അമിതഭാരവും
+O: D) വിദ്യാഭ്യാസ ഭരണത്തിന്റെ വികേന്ദ്രീകരണം
+ANS: C
+EN: The Yashpal Committee (1993) primarily focused on addressing which of the following issues in the Indian education system ?
+EO: A) Introduction of information and communication technology in schools
+EO: B) Teacher autonomy
+EO: C) Curriculum burden and the overload of learning materials
+EO: D) Decentralization of educational administration
+
+@q 68
+STEM: ദേശീയ വിദ്യാഭ്യാസ നയം (NPE), 1986 ന്റെ അവലോകനത്തിന്റെ അടിസ്ഥാനത്തിലും താഴെപ്പറയുന്ന ഏത് കമ്മിറ്റികളുടെ ശുപാർശകളുടെ അടിസ്ഥാനത്തിലുമാണ് 1992-ലെ Programme of Action (POA) രൂപീകരിച്ചത് ?
+O: A) ജനാർദ്ദന റെഡ്ഡി കമ്മിറ്റിയും യശ്പാൽ കമ്മിറ്റിയും
+O: B) മുദലിയാർ കമ്മീഷനും രാധാകൃഷ്ണൻ കമ്മീഷനും
+O: C) രാമമൂർത്തി കമ്മിറ്റിയും ജനാർദ്ദന റെഡ്ഡി കമ്മിറ്റിയും
+O: D) യശ്പാൽ കമ്മിറ്റിയും ഹൻസ മേത്ത കമ്മിറ്റിയും
+ANS: C
+EN: The Programme of Action (POA), 1992, was formulated based on the review of the National Policy on Education (NPE), 1986, and the recommendations of which of the following committees ?
+EO: A) Janardhana Reddy Committee and Yashpal Committee
+EO: B) Mudaliar Commission and Radhakrishnan Commission
+EO: C) Ramamurti Committee and Janardhana Reddy Committee
+EO: D) Yashpal Committee and Hansa Mehta Committee
+
+@q 69
+STEM: ജനാർദ്ദന റെഡ്ഡി കമ്മിറ്റി രൂപീകരിച്ച സംഘടന ഏതാണ് ?
+O: A) ആസൂത്രണ കമ്മീഷൻ
+O: B) നാഷണൽ കൗൺസിൽ ഓഫ് എഡ്യൂക്കേഷണൽ റിസർച്ചും പരിശീലനവും (NCERT)
+O: C) വിദ്യാഭ്യാസ മന്ത്രാലയം
+O: D) മാനവ വിഭവശേഷി വികസന മന്ത്രാലയം
+ANS: D
+EN: Which organization constituted the Janardhana Reddy Committee ?
+EO: A) Planning Commission
+EO: B) National Council of Educational Research and Training (NCERT)
+EO: C) Ministry of Education
+EO: D) Ministry of Human Resource Development
+
+@q 70
+STEM: 2026 ജൂണിൽ ഇന്റർനാഷണൽ ബിഗ് ക്യാറ്റ് അലയൻസിൽ (IBCA)-27-ാമത്തെ അംഗമായി ഔദ്യോഗികമായി ചേർന്ന രാജ്യം ഏതാണ് ?
+O: A) കംബോഡിയ
+O: B) ഇന്തോനേഷ്യ
+O: C) ബംഗ്ലാദേശ്
+O: D) തായ്‌ലൻഡ്
+ANS: C
+EN: Which country officially joined the International Big Cat Alliance (IBCA) as its 27th member in June 2026 ?
+EO: A) Cambodia
+EO: B) Indonesia
+EO: C) Bangladesh
+EO: D) Thailand
+
+@q 71
+STEM: a : b = 2 : 3, b : c = 4 : 5, c : d = 6 : 7, ആണെങ്കിൽ (a + b + c) : (b + c + d) എത്രയായിരിക്കും ?
+O: A) 12 : 17
+O: B) 2 : 3
+O: C) 62 : 73
+O: D) 70 : 89
+ANS: D
+EN: If a : b = 2 : 3, b : c = 4 : 5 and c : d = 6 : 7, then what is (a + b + c) : (b + c + d) ?
+EO: A) 12 : 17
+EO: B) 2 : 3
+EO: C) 62 : 73
+EO: D) 70 : 89
+
+@q 72
+STEM: ഒരു വ്യക്തി ഒരു വസ്തു 10% നഷ്ടത്തിൽ വിറ്റു. അത് 26 രൂപ കൂടി വിറ്റിരുന്നെങ്കിൽ 10% ലാഭം ലഭിക്കുമായിരുന്നു. ആ വസ്തുവിന്റെ വാങ്ങിയ വില എത്രയാണ് ?
+O: A) 130 രൂപ
+O: B) 126 രൂപ
+O: C) 260 രൂപ
+O: D) 160 രൂപ
+ANS: A
+EN: A man sold an object at a loss of 10%. If he had been sold it for Rs. 26 more, there would have been a profit of 10%. What is the cost of that object ?
+EO: A) Rs. 130
+EO: B) Rs. 126
+EO: C) Rs. 260
+EO: D) Rs. 160
+
+@q 73
+STEM: 7 പുരുഷന്മാരടങ്ങുന്ന ഒരു സംഘത്തിന്റെ ശരാശരി പ്രായം 40 വയസ്സാണ്. ഒരു വർഷത്തിന് ശേഷം ഒരാളെ കൂടി സംഘത്തിൽ ചേർത്തു. ഇപ്പോഴും സംഘത്തിന്റെ ശരാശരി പ്രായം 40 വയസ്സാണെങ്കിൽ, പുതുതായി ചേർന്ന വ്യക്തിയുടെ പ്രായം എത്രയാണ് ?
+O: A) 40
+O: B) 41
+O: C) 33
+O: D) 34
+ANS: C
+EN: The average age of a group of 7 men was 40. After one year one man is added to the group. If the average age of the group is still 40, what is the age of the newly added man ?
+EO: A) 40
+EO: B) 41
+EO: C) 33
+EO: D) 34
+
+@q 74
+STEM: 6 സെ.മീ. ഉയരവും 2 സെ.മീ. വശനീളമുള്ള ചതുരാകൃതിയിലും അടിത്തറയുമുള്ള ഒരു ലോഹ പിരമിഡ് ഉരുക്കി ഒരു ഘനമായി (ച.സെ.മീ.) നിർമ്മിച്ചു. ആ ഘനത്തിന്റെ ഉപരിതല വിസ്തീർണ്ണം എത്രയാണ് ?
+O: A) 24
+O: B) 26
+O: C) 28
+O: D) 26√2
+ANS: A
+EN: A metallic square pyramid of height 6 cm and base side length 2 cm is melt and made a cube. What is surface area (in sq.cm.) of that cube ?
+EO: A) 24
+EO: B) 26
+EO: C) 28
+EO: D) 26√2
+NOTE: മലയാളം ചോദ്യത്തിലെ 'ചതുരാകൃതിയിലും അടിത്തറയുമുള്ള' എന്ന പ്രയോഗം അച്ചടിയിൽ അവ്യക്തമാണ്; ഇംഗ്ലീഷിൽ 'square pyramid' (സമചതുര പിരമിഡ്) എന്നാണ്. കൂടാതെ '(ച.സെ.മീ.)' എന്നത് ഘനത്തിനു ശേഷം തെറ്റായ സ്ഥാനത്താണ് അച്ചടിച്ചിരിക്കുന്നത്.
+
+@q 75
+STEM: A യ്ക്ക് ഒരു ജോലി 10 ദിവസം കൊണ്ട് ചെയ്യാൻ കഴിയും. A യും B യും ഒരുമിച്ച് അതേ ജോലി 6 ദിവസം കൊണ്ട് പൂർത്തിയാക്കും. A യും C യും ഒരുമിച്ച് അതേ ജോലി 4 ദിവസം കൊണ്ട് പൂർത്തിയാക്കും. B യും C യും ഒരുമിച്ച് പ്രവർത്തിച്ചാൽ അതേ ജോലി പൂർത്തിയാക്കാൻ എത്ര ദിവസം വേണ്ടിവരും ?
+O: A) 4
+O: B) 4 8/13
+O: C) 5
+O: D) 5 5/13
+ANS: B
+EN: A can do a work in 10 days, A and B can together complete the same work in 6 days, A and C can complete the same work in 4 days. How many days required for completing the same work if B and C worked together ?
+EO: A) 4
+EO: B) 4 8/13
+EO: C) 5
+EO: D) 5 5/13
+
+@q 76
+STEM: B യുടെ വടക്ക് 3 കി.മീ. അകലെയാണ് A, A യുടെ കിഴക്ക് 4 കി.മീ. അകലെയാണ് C, C യുടെ തെക്ക് 7 കി.മീ. അകലെയാണ് D എന്നാൽ D നെ അപേക്ഷിച്ച് B ഏത് സ്ഥാനത്താണ് ?
+O: A) 4√2 കി.മീ. തെക്ക്-കിഴക്ക്
+O: B) 4√2 കി.മീ. വടക്ക്-പടിഞ്ഞാറ്
+O: C) 7 കി.മീ. തെക്ക്-കിഴക്ക്
+O: D) 7 കി.മീ. പടിഞ്ഞാറ്
+ANS: B
+EN: A is 3 km North of B, C is 4 km East of A, D is 7 km South of C. What is the position of B relate to D ?
+EO: A) 4√2 km South-East
+EO: B) 4√2 km North-West
+EO: C) 7 km South-East
+EO: D) 7 km West
+
+@q 77
+STEM: KANNUR എന്ന സ്ഥലത്തെ LCQRZX എന്നാണ് കോഡ് ചെയ്തിരിക്കുന്നതെങ്കിൽ, INDIA എന്ന സ്ഥലത്തിന്റെ കോഡ് എന്താണ് ?
+O: A) JPGMF
+O: B) JOGJC
+O: C) MRGMC
+O: D) MQGJC
+ANS: A
+EN: If KANNUR is coded as LCQRZX, what is the code for INDIA ?
+EO: A) JPGMF
+EO: B) JOGJC
+EO: C) MRGMC
+EO: D) MQGJC
+
+@q 78
+STEM: യഥാർത്ഥ ഡാറ്റ : KR69/8396/MN. ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ശരി ?
+O: A) KR69/8369/MN
+O: B) KR69/8936/MN
+O: C) KR69/8396/NM
+O: D) KR69/8396/MN
+ANS: D
+EN: Original data : KR69/8396/MN. Which of the following is correct ?
+EO: A) KR69/8369/MN
+EO: B) KR69/8936/MN
+EO: C) KR69/8396/NM
+EO: D) KR69/8396/MN
+
+@q 79
+STEM: ഒരു 12 മണിക്കൂർ അനലോഗ് ക്ലോക്കിൽ സമയം 3 : 32 ആണെങ്കിൽ, മിനിറ്റ് സൂചിക്കും മണിക്കൂർ സൂചിക്കും ഇടയിലുള്ള കോൺ (ഡിഗ്രിയിൽ) എത്രയാണ് ?
+O: A) 84
+O: B) 86
+O: C) 94
+O: D) 96
+ANS: B
+EN: In a 12-hour analogue clock what is the angle (in degree) between minute hand and hour hand if the clock shows time 3 : 32 ?
+EO: A) 84
+EO: B) 86
+EO: C) 94
+EO: D) 96
+
+@q 80
+STEM: കണക്കാക്കുക √[(125 + 225 + 135 + 27) / √(25 + 30 + 9)]
+O: A) 8.025
+O: B) 10.25
+O: C) 8
+O: D) 9.75
+ANS: C
+EN: Calculate √[(125 + 225 + 135 + 27) / √(25 + 30 + 9)]
+EO: A) 8.025
+EO: B) 10.25
+EO: C) 8
+EO: D) 9.75
+NOTE: ഭിന്നസംഖ്യയും വർഗ്ഗമൂലവും ടെക്സ്റ്റ് രൂപത്തിലാണ് നൽകിയിരിക്കുന്നത്; ചിത്രത്തിൽ ഹരത്തിലെ വർഗ്ഗമൂലം 25 + 30 + 9 മുഴുവനും ഉൾക്കൊള്ളുന്നു.
