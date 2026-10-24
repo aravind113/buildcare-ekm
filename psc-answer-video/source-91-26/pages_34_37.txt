@@ -1,0 +1,182 @@
+@q 81
+ANS: B
+EN: Which sentence is grammatically correct ?
+EO: A) Scarcely had I entered than the meeting began.
+EO: B) Scarcely had I entered when the meeting began.
+EO: C) Scarcely I had entered when the meeting began.
+EO: D) Scarcely had entered I when the meeting began.
+
+@q 82
+ANS: B
+EN: The word UBIQUITOUS most nearly means
+EO: A) Rare
+EO: B) Omnipresent
+EO: C) Temporary
+EO: D) Invisible
+
+@q 83
+ANS: A
+EN: Choose the correctly formed sentence.
+EO: A) The committee comprises five members.
+EO: B) The committee comprises of five members.
+EO: C) The committee is comprising five members.
+EO: D) The committee has comprising five members.
+
+@q 84
+ANS: B
+EN: Choose the correct one-word substitute. One who abandons one’s religious or political beliefs.
+EO: A) Agnostic
+EO: B) Apostate
+EO: C) Heretic
+EO: D) Iconoclast
+
+@q 85
+ANS: B
+EN: Which sentence is grammatically correct ?
+EO: A) The police has arrested the suspect.
+EO: B) The police have arrested the suspect.
+EO: C) The police is arresting the suspect.
+EO: D) The police was arrested the suspect.
+
+@q 86
+ANS: B
+EN: Choose the grammatically correct sentence.
+EO: A) Neither of the two candidates were suitable for the post.
+EO: B) Neither of the two candidates was suitable for the post.
+EO: C) Neither of the two candidate was suitable for the post.
+EO: D) Neither of the two candidates have been suitable for the post.
+
+@q 87
+ANS: B
+EN: Choose the correct sentence.
+EO: A) By the time we reached the station, the train left.
+EO: B) By the time we reached the station, the train had left.
+EO: C) By the time we had reached the station, the train leaves.
+EO: D) By the time we reached the station, the train has left.
+
+@q 88
+ANS: B
+EN: Choose the correct sentence.
+EO: A) He is superior than his brother in mathematics.
+EO: B) He is superior to his brother in mathematics.
+EO: C) He is superior over his brother in mathematics.
+EO: D) He is superior from his brother in mathematics.
+
+@q 89
+ANS: C
+EN: Which sentence is grammatically correct ?
+EO: A) The criteria for selection has been revised.
+EO: B) The criterion for selection have been revised.
+EO: C) The criterion for selection has been revised.
+EO: D) The criteria for selection is revised because it are outdated.
+
+@q 90
+ANS: B
+EN: The latin expression status quo refers to
+EO: A) A legal right
+EO: B) The existing state of affairs
+EO: C) An unavoidable condition
+EO: D) An official position held by virtue of another office
+
+@q 91
+STEM: താഴെ കൊടുത്തവയിൽ ശരിയായ ജോഡിയുടെ അടിസ്ഥാനത്തിൽ ഉചിതമായ പ്രസ്താവന കണ്ടെത്തുക.
+S: x. പ്രവൃത്തി – പ്രവർത്തിക്കുക
+S: y. പ്രവർത്തി – പ്രവൃത്തിക്കുക
+S: z. പ്രവൃത്തി – പ്രവൃത്തിക്കുക
+O: A) x മാത്രം ശരിയാണ്
+O: B) x, y എന്നിവ ശരിയാണ്
+O: C) x, y, z എന്നിവ ശരിയാണ്
+O: D) x, z എന്നിവ ശരിയാണ്
+ANS: A
+
+@q 92
+STEM: പൗത്രി എന്ന പദത്തിന് തുല്യമായ അർത്ഥം വരുന്ന പദം തെരഞ്ഞെടുത്തെഴുതുക.
+O: A) പൗത്രിക
+O: B) സുതാത്മജ
+O: C) പൗവം
+O: D) ആത്മജ
+ANS: B
+
+@q 93
+STEM: ചിലതരം ആവർത്തനങ്ങൾ ആശയം ഊന്നിപ്പറയാൻ ഉപയോഗപ്പെടുത്തുന്നുണ്ട്. താഴെ കൊടുത്തവയിൽ ഈ വസ്തുതയോട് ചേരാത്ത പ്രയോഗം ഏതെന്നു കണ്ടെത്തുക.
+O: A) ഞാൻ എന്റെ കണ്ണു കൊണ്ട് കണ്ടതല്ലേ ?
+O: B) അടിച്ച അടിയെല്ലാം അവൻ മിണ്ടാതെ നിന്നു കൊണ്ടു.
+O: C) ജ്വലിച്ച കൺകൊണ്ടൊരു നോക്കു നോക്കി.
+O: D) ആ രംഗം കണ്ണുകൾക്കു നയനാനന്ദകരമായിരുന്നു.
+ANS: D
+
+@q 94
+STEM: താഴെ കൊടുത്തവയിൽ നിന്ന് മലയാളഭാഷയുടെ നൈസർഗികശൈലിക്ക് അനുയോജ്യമായ പ്രയോഗം കണ്ടെത്തുക.
+S: x. എലികളെ കൊണ്ട് നിറഞ്ഞ മുറി
+S: y. എലികൾ നിറഞ്ഞ മുറി
+O: A) x മാത്രം അനുയോജ്യമാണ്
+O: B) x, y എന്നിവ രണ്ടും അനുയോജ്യമാണ്
+O: C) y മാത്രം അനുയോജ്യമാണ്
+O: D) y അനുയോജ്യമല്ല
+ANS: C
+
+@q 95
+STEM: താഴെ കൊടുത്ത വാക്യങ്ങളിൽ പുനരുക്തിദോഷം ഇല്ലാത്തത് തെരഞ്ഞെടുക്കുക.
+O: A) തീവണ്ടിക്കു സമയമായതിനാൽ കുശലപ്രശ്നം ചോദിക്കാനൊന്നും ഞാൻ നിന്നില്ല.
+O: B) ശ്രീ. കെ. കെ. നമ്മുടെ ഭാഷയിൽ ലബ്ധപ്രതിഷ്ഠ നേടിയ നിരൂപകനാണല്ലോ.
+O: C) ഇങ്ങനെ നാണം കെട്ടു ജീവിക്കുന്നതിനേക്കാൾ ഭേദം മരിക്കുകയല്ലേ ചേട്ടാ നല്ലത് ?
+O: D) അവൻ വന്ന വരവ് ഒന്നു കാണേണ്ടതായിരുന്നു.
+ANS: D
+
+@q 96
+STEM: താഴെകൊടുത്ത വിപരീതപദജോഡികളിൽ ശരിയല്ലാത്തത് തെരഞ്ഞെടുക്കുക.
+O: A) ഐഹികം × പാരത്രികം
+O: B) ചഞ്ചലം × നിശ്ചലം
+O: C) വ്യയം × ദ്വയം
+O: D) ത്യാജ്യം × ഗ്രാഹ്യം
+ANS: C
+
+@q 97
+STEM: താഴെ പറയുന്ന ശൈലികളെ അർത്ഥത്തിനനുസരിച്ച് ചേരുംപടി ചേർക്കുക.
+S: p. തലയിൽ കേറ്റുക
+S: q. പൊടിയിട്ട് വിളക്കുക
+S: r. ആകാശം നോക്കുക
+S: s. നെല്ലിപ്പടി കാണുക
+S: 1. ന്യൂനത മറയ്ക്കുക
+S: 2. പകച്ചു പോവുക
+S: 3. ലാളിക്കുക
+S: 4. യോജിപ്പിക്കുക
+S: 5. അങ്ങേയറ്റം വരെ എത്തുക
+O: A) p – 4, q – 2, r – 5, s – 3
+O: B) p – 2, q – 3, r – 4, s – 1
+O: C) p – 3, q – 1, r – 2, s – 5
+O: D) p – 4, q – 1, r – 2, s – 3
+ANS: C
+
+@q 98
+STEM: അ എന്ന ശബ്ദത്തോട് ഏത് പ്രത്യയം ചേർന്നാണ് അവ എന്ന രൂപം ഉണ്ടാകുന്നത് ?
+O: A) അൻ
+O: B) അ
+O: C) വ
+O: D) അർ
+ANS: B
+
+@q 99
+STEM: തുവരൻ, ഊക്കൻ എന്നീ ശബ്ദങ്ങളിലെ അൻ എന്നത്
+O: A) നപുംസകലിംഗപ്രത്യയമാണ്
+O: B) പുല്ലിംഗപ്രത്യയമാണ്
+O: C) അംഗപ്രത്യയമാണ്
+O: D) അനുപ്രയോഗമാണ്
+ANS: A
+
+@q 100
+STEM: ചേരുംപടി ചേർക്കുക.
+S: p. വരിക + എടോ = വരികെടോ
+S: q. പൂ + അമ്പ് = പൂവമ്പ്
+S: r. തളിർ + കൂട്ടം = തളിർക്കൂട്ടം
+S: s. എൺ + നൂറ് = എണ്ണൂറ്
+S: 1. ആഗമസന്ധി
+S: 2. ദ്വിത്വസന്ധി
+S: 3. സവർണ്ണദീർഘസന്ധി
+S: 4. ലോപസന്ധി
+S: 5. ആദേശസന്ധി
+O: A) p – 4, q – 1, r – 2, s – 5
+O: B) p – 2, q – 3, r – 4, s – 5
+O: C) p – 3, q – 4, r – 1, s – 2
+O: D) p – 2, q – 1, r – 3, s – 4
+ANS: A

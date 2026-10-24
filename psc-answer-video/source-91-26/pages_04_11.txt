@@ -1,0 +1,335 @@
+@q 1
+STEM: 1. ശ്രീനാരായണ ഗുരുവിന്റെ “ദൈവദശകം” പ്രധാനമായും താഴെപ്പറയുന്നവയിൽ ഏതാണ് ?
+O: A) വിഗ്രഹാരാധനയെക്കുറിച്ചുള്ള ഒരു വിമർശനം.
+O: B) ജാതിമതഭേദങ്ങൾക്കതീതമായി ഭക്തി പ്രകടിപ്പിക്കുന്ന ഒരു സാർവത്രിക പ്രാർത്ഥന.
+O: C) ക്രിസ്ത്യൻ മിഷനറിമാർക്കെതിരായ ഒരു വാദപ്രതിവാദം.
+O: D) ഭഗവാൻ ശിവന് മാത്രമായി സമർപ്പിച്ചിരിക്കുന്ന ഒരു സ്തുതിഗീതം.
+ANS: B
+EN: Sree Narayana Guru’s “Daiva Dasakam” is primarily characterized by which of the following ?
+EO: A) A critique of idol worship.
+EO: B) A universal prayer expressing devotion beyond caste and creed.
+EO: C) A polemic against Christian missionaries.
+EO: D) A hymn dedicated exclusively to Lord Siva.
+
+@q 2
+STEM: 2. ഇന്ത്യൻ ദേശീയതയ്ക്ക് സാഹിത്യ സംഭാവനകൾ നൽകുന്നതിനെക്കുറിച്ചുള്ള ഇനിപ്പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരി ?
+S: 1. രവീന്ദ്രനാഥ ടാഗോറിന്റെ ‘ഗോറ’ സ്വത്വം, മതം, ദേശീയത എന്നിവയുടെ ചോദ്യങ്ങൾ പര്യവേക്ഷണം ചെയ്തു.
+S: 2. ബങ്കിം ചന്ദ്ര ചതോപാധ്യായയുടെ ആനന്ദമഠം നിയമനിർമാണ കൗൺസിലുകൾ വഴി ഭരണഘടനാ പരിഷ്ക്കാരങ്ങൾക്കായി വാദിച്ചു.
+S: 3. കൊളോണിയൽ ഭരണത്തിൻ കീഴിൽ ഇൻഡിഗോ കർഷകരുടെ ചൂഷണം ദിനബന്ധു മിത്രയുടെ നീൽ ദർപ്പൺ തുറന്നുകാട്ടി.
+O: A) 1 ഉം 2 ഉം മാത്രം
+O: B) 1 ഉം 3 ഉം മാത്രം
+O: C) 2 ഉം 3 ഉം മാത്രം
+O: D) 1, 2, 3
+ANS: B
+EN: Which of the following statements regarding literary contributions to Indian Nationalism are correct ?
+ES: 1. Rabindranath Tagore’s Gora explored questions of identity, religion, and nationhood.
+ES: 2. Bankim Chandra Chattopadhyay’s Anandamath advocated constitutional reforms through legislative councils.
+ES: 3. Dinabandhu Mitra’s Nil Darpan exposed the exploitation of indigo cultivators under colonial rule.
+EO: A) 1 and 2 only
+EO: B) 1 and 3 only
+EO: C) 2 and 3 only
+EO: D) 1, 2 and 3
+
+@q 3
+STEM: 3. മഹാത്മാഗാന്ധിയെക്കുറിച്ചുള്ള താഴെ പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് തെറ്റ് ?
+S: 1. ഗോപാലകൃഷ്ണ ഗോഖലെയുടെ ക്ഷണപ്രകാരം 1915-ൽ ഗാന്ധിജി ദക്ഷിണാഫ്രിക്കയിൽ നിന്ന് ഇന്ത്യയിലേക്ക് മടങ്ങി.
+S: 2. ചമ്പാരൻ സത്യാഗ്രഹം (1917) ഗാന്ധിജിയുടെ ഇന്ത്യയിലെ ആദ്യത്തെ പ്രധാന ബഹുജന പ്രസ്ഥാനമായിരുന്നു.
+S: 3. ഇന്ത്യൻ നാഷണൽ കോൺഗ്രസിന്റെ ലാഹോർ സമ്മേളനത്തിൽ ഗാന്ധി അധ്യക്ഷത വഹിച്ചു. അവിടെ വെച്ചാണ് പൂർണ സ്വരാജ് എന്ന ആവശ്യം അംഗീകരിക്കപ്പെട്ടത്.
+S: 4. 1919 മുതൽ ഗാന്ധിജി ഹിന്ദിയിൽ നവജീവൻ മാസിക പ്രസിദ്ധീകരിക്കാൻ തുടങ്ങി.
+O: A) 1 ഉം 2 ഉം മാത്രം
+O: B) 3 മാത്രം
+O: C) 3 ഉം 4 ഉം മാത്രം
+O: D) 4 മാത്രം
+ANS: C
+EN: Which of the following statement/s about Mahatma Gandhi is/are incorrect ?
+ES: 1. Gandhi returned to India from South Africa in 1915 at the invitation of Gopal Krishna Gokhale.
+ES: 2. The Champaran Satyagraha (1917) was Gandhi’s first major mass movement in India.
+ES: 3. Gandhi presided over the Lahore Session of the Indian National Congress where the demand for Purna Swaraj was adopted.
+ES: 4. From the year 1919 onwards, Gandhiji began publishing the journal Navjeevan in Hindi.
+EO: A) 1 and 2 only
+EO: B) 3 only
+EO: C) 3 and 4 only
+EO: D) 4 only
+NOTE: ഇംഗ്ലീഷ് പതിപ്പിൽ നവജീവൻ ‘ജേണൽ’ എന്നും മലയാളത്തിൽ ‘മാസിക’ എന്നും അച്ചടിച്ചിരിക്കുന്നു; അർത്ഥവ്യത്യാസം നിസ്സാരം.
+
+@q 4
+STEM: 4. ഫ്രഞ്ച് വിപ്ലവത്തെക്കുറിച്ചുള്ള താഴെ പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് തെറ്റ് ?
+S: 1. തേർഡ് എസ്റ്റേറ്റിന്റെ പ്രതിനിധികൾ എസ്റ്റേറ്റ്സ് ജനറലിന്റെ മീറ്റിംഗ് ഹാളിൽ നിന്ന് പുറത്തു കടന്നതായി കണ്ടെത്തിയതിനെത്തുടർന്നാണ് ‘ടെന്നീസ് കോർട്ട് സത്യപ്രതിജ്ഞ’ നടത്തിയത്.
+S: 2. ‘മനുഷ്യന്റെയും പൗരന്റെയും അവകാശ പ്രഖ്യാപനം’ നിയമത്തിന് മുന്നിൽ തുല്യത പ്രഖ്യാപിച്ചു, പക്ഷേ തുടക്കത്തിൽ സ്ത്രീകൾക്ക് രാഷ്ട്രീയ അവകാശങ്ങൾ അനുവദിച്ചില്ല.
+S: 3. ‘ഭീകരവാഴ്ച’ പ്രധാനമായും മാക്സിമിലിയൻ റോബസ്പിയറുടെയും ജാക്കോബിൻസിന്റെയും രാഷ്ട്രീയ ആധിപത്യവുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു.
+S: 4. 1789-ൽ ബാസ്റ്റില്ലിന്റെ പതനത്തിന് തൊട്ടുപിന്നാലെയാണ് ഡയറക്ടറി സ്ഥാപിതമായത്.
+O: A) 1 ഉം 4 ഉം മാത്രം
+O: B) 2 മാത്രം
+O: C) 4 മാത്രം
+O: D) 2 ഉം 3 ഉം മാത്രം
+ANS: C
+EN: Which of the following statement/s about the French Revolution is/are incorrect ?
+ES: 1. The ‘Tennis Court Oath’ was taken after the representatives of the Third Estate found themselves locked out of the meeting hall of the Estates-General.
+ES: 2. ‘The Declaration of the Rights of Man and of the Citizen’ proclaimed equality before law but did not initially grant political rights to women.
+ES: 3. The ‘Reign of Terror’ was primarily associated with the political dominance of Maximilien Robespierre and the Jacobins.
+ES: 4. The Directory was established immediately after the fall of the Bastille in 1789.
+EO: A) 1 and 4 only
+EO: B) 2 only
+EO: C) 4 only
+EO: D) 2 and 3 only
+
+@q 5
+STEM: 5. ഇന്ത്യയുടെ വിദേശനയത്തെക്കുറിച്ചുള്ള താഴെ പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരി ?
+S: 1. 1971-ലെ യുദ്ധത്തെത്തുടർന്ന് 1972-ൽ ഇന്ത്യയും പാകിസ്ഥാനും തമ്മിൽ ഷിംല കരാർ ഒപ്പുവച്ചു.
+S: 2. 1974-ൽ ഇന്ത്യ “സ്മൈലിംഗ് ബുദ്ധ” എന്ന രഹസ്യനാമമുള്ള ആദ്യത്തെ ആണവ പരീക്ഷണം നടത്തി.
+S: 3. 1991-ൽ ഇന്ത്യ ഐക്യരാഷ്ട്രസഭയുടെ സുരക്ഷാ കൗൺസിലിൽ സ്ഥിരാംഗമായി.
+S: 4. ചേരിചേരാ പ്രസ്ഥാനത്തിന്റെ സ്ഥാപക അംഗങ്ങളിൽ ഇന്ത്യയും ഉൾപ്പെട്ടിരുന്നു.
+O: A) 1 ഉം 2 ഉം മാത്രം
+O: B) 2 ഉം 3 ഉം മാത്രം
+O: C) 1, 2, 4 മാത്രം
+O: D) 1, 3, 4 മാത്രം
+ANS: C
+EN: Which of the following statement/s about India’s foreign policy is/are true ?
+ES: 1. The Shimla Agreement was signed between India and Pakistan in 1972 following the 1971 war.
+ES: 2. India conducted its first nuclear test, code-named “Smiling Buddha”, in 1974.
+ES: 3. India became a permanent member of the United Nations Security Council in 1991.
+ES: 4. India was among the founding members of the Non-Aligned Movement.
+EO: A) 1 and 2 only
+EO: B) 2 and 3 only
+EO: C) 1, 2 and 4 only
+EO: D) 1, 3 and 4 only
+
+@q 6
+STEM: 6. 2026-ജൂൺ-ജൂലൈ മാസങ്ങളിൽ ന്യൂഡൽഹിയിലെ ജന്തർ മന്തറിൽ നടന്ന വിദ്യാർത്ഥി പ്രതിഷേധങ്ങളെക്കുറിച്ചുള്ള ഇനിപ്പറയുന്ന പ്രസ്താവനകൾ പരിഗണിക്കുക.
+S: 1. ദേശീയതല പരീക്ഷകളിലെ ക്രമക്കേടുകളും ചോദ്യപേപ്പർ ചോർച്ചയും സംബന്ധിച്ച ആശങ്കകളാണ് പ്രധാനമായും പ്രതിഷേധത്തിന് കാരണമായത്.
+S: 2. പ്രകടനങ്ങൾക്ക് നിരവധി വിദ്യാർത്ഥി സംഘടനകളുടെയും സിവിൽ സൊസൈറ്റി ഗ്രൂപ്പുകളുടെയും പിന്തുണ ലഭിച്ചു.
+S: 3. ഇന്ത്യയിലെ എല്ലാ ദേശീയതല പ്രവേശന പരീക്ഷകളും നിർത്തലാക്കണമെന്ന് പ്രതിഷേധക്കാർ ആവശ്യപ്പെട്ടു.
+S: 4. പ്രതിഷേധക്കാരുടെ പ്രധാന ആവശ്യങ്ങളിലൊന്ന് ഇന്ത്യാ ഗവൺമെന്റിന്റെ വിദ്യാഭ്യാസ മന്ത്രാലയത്തിൽ നിന്നുള്ള ഉത്തരവാദിത്തമായിരുന്നു.
+S: മുകളിൽ നൽകിയിരിക്കുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരി?
+O: A) 1, 2, 4 മാത്രം
+O: B) 1 ഉം 3 ഉം മാത്രം
+O: C) 2 ഉം 3 ഉം മാത്രം
+O: D) 1, 2, 3, 4
+ANS: A
+EN: Consider the following statements regarding the student protests held during June-July 2026 at Jantar Mantar in New Delhi.
+ES: 1. The protest was primarily triggered by concerns over alleged irregularities and paper leaks in national-level examinations.
+ES: 2. The demonstrations attracted support from several student organizations and civil society groups.
+ES: 3. The protesters demanded the abolition of all national-level entrance examinations in India.
+ES: 4. One of the key demands of the protesters was accountability from the Ministry of Education, Government of India.
+ES: Which of the statements given above is/are true ?
+EO: A) 1, 2 and 4 only
+EO: B) 1 and 3 only
+EO: C) 2 and 3 only
+EO: D) 1, 2, 3 and 4
+
+@q 7
+STEM: 7. താഴെ കൊടുത്തിരിക്കുന്ന ജോഡികളിൽ തെറ്റായി പൊരുത്തപ്പെടുന്നത് ഏതാണ് ?
+O: A) ചുണ്ണാമ്പുകല്ല് – അവസാദിഷ്ഠ പാറ
+O: B) സ്ലേറ്റ് – മെറ്റമോർഫിക് പാറ
+O: C) ഗ്നൈസ് – സെഡിമെന്ററി റോക്ക്
+O: D) ബസാൾട്ട് – എക്സ്ട്രൂസീവ് അഗ്നി പാറ
+ANS: C
+EN: Which of the following pairs is wrongly matched ?
+EO: A) Limestone – Sedimentary rock
+EO: B) Slate – Metamorphic rock
+EO: C) Gneiss – Sedimentary rock
+EO: D) Basalt – Extrusive igneous rock
+
+@q 8
+STEM: 8. ലാബ്രഡോർ പ്രവാഹത്തിന്റെയും ഗൾഫ് പ്രവാഹത്തിന്റെയും സംഗമം മൂലം ഇവ സൃഷ്ടിക്കുന്നത്
+O: A) പവിഴപ്പുറ്റുകൾ
+O: B) സമ്പന്നമായ മത്സ്യബന്ധന കേന്ദ്രങ്ങൾ
+O: C) മരുഭൂമിയിലെ കാലാവസ്ഥ
+O: D) ചുഴലിക്കാറ്റുകൾ
+ANS: B
+EN: The meeting of the Labrador Current and the Gulf Stream creates
+EO: A) Coral reefs
+EO: B) Rich fishing grounds
+EO: C) Desert climate
+EO: D) Cyclones
+
+@q 9
+STEM: 9. താഴെ പറയുന്ന വാദവും കാരണവും പരിഗണിക്കുക. താഴെ പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരി ?
+S: വാദം (A) : മിതശീതോഷ്ണ ഇലപൊഴിയും വനങ്ങൾ ശരത്കാലത്ത് ഇലകൾ പൊഴിക്കുന്നു.
+S: കാരണം (R) : മിതമായ മഴ ലഭിക്കുന്ന പ്രദേശങ്ങളിലാണ് ഈ വനങ്ങൾ കാണപ്പെടുന്നത്.
+O: A) (A) ഉം (R) ഉം ശരിയാണ്, (R) ആണ് (A) യുടെ ശരിയായ വിശദീകരണം
+O: B) (A) ഉം (R) ഉം ശരിയാണ്, പക്ഷേ (R), (A) യുടെ ശരിയായ വിശദീകരണം അല്ല
+O: C) (A) ശരിയാണ്, പക്ഷേ (R) തെറ്റാണ്
+O: D) (A) തെറ്റാണ്, പക്ഷേ (R) ശരിയാണ്
+ANS: B
+EN: Consider the following Assertion and Reason. Which one of the following statements is/are true ?
+ES: Assertion (A) : Temperate deciduous forests shed their leaves during autumn.
+ES: Reason (R) : These forests occur in regions with moderate rainfall.
+EO: A) Both (A) and (R) are true and (R) is the correct explanation of (A)
+EO: B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+EO: C) (A) is true, but (R) is false
+EO: D) (A) is false, but (R) is true
+
+@q 10
+STEM: 10. അതിരപ്പിള്ളി, വാഴച്ചാൽ വെള്ളച്ചാട്ടങ്ങളുമായി ബന്ധപ്പെട്ട നദി ഏതാണ് ?
+O: A) ചാലിയാർ
+O: B) പെരിയാർ
+O: C) ചാലക്കുടി
+O: D) ഭാരതപ്പുഴ
+ANS: C
+EN: Which river is associated with Athirappilly and Vazhachal waterfalls ?
+EO: A) Chaliyar
+EO: B) Periyar
+EO: C) Chalakudy
+EO: D) Bharathapuzha
+
+@q 11
+STEM: 11. ഏറ്റവും ഉയർന്ന കൊടുമുടികളിൽ ഭൂരിഭാഗവും അടങ്ങിയിരിക്കുന്ന ഹിമാലയൻ നിര ഏതാണ് ?
+O: A) ഹിമാദ്രി
+O: B) ഹിമാചൽ
+O: C) ശിവാലിക്
+O: D) പീർ പഞ്ചാൽ
+ANS: A
+EN: Which Himalayan range contains most of the highest peaks ?
+EO: A) Himadri
+EO: B) Himachal
+EO: C) Shiwalik
+EO: D) Pir Panjal
+
+@q 12
+STEM: 12. താഴെപ്പറയുന്നവയിൽ ഏതാണ് പൊതുജനങ്ങൾക്ക് കാലാവസ്ഥയുമായി ബന്ധപ്പെട്ട സേവനങ്ങൾ നൽകുന്നതിനായി ഇന്ത്യാ കാലാവസ്ഥാ വകുപ്പ് (IMD) വികസിപ്പിച്ചെടുത്ത മൊബൈൽ ആപ്ലിക്കേഷൻ അല്ലാത്തത് ?
+O: A) മൗസം
+O: B) ദാമിനി
+O: C) മേഘ്ദൂത്
+O: D) ഭുവൻ
+ANS: D
+EN: Which one of the following is not a mobile application developed by the Indian Meteorological Department (IMD) to provide weather-related services to the public ?
+EO: A) Mausam
+EO: B) Damini
+EO: C) Meghdoot
+EO: D) Bhuvan
+
+@q 13
+STEM: 13. കഴിഞ്ഞ ഏതാനും പതിറ്റാണ്ടുകളായി, ഇന്ത്യൻ സമ്പദ്‌വ്യവസ്ഥ വ്യാപാരം, ഗതാഗതം, വിവരസാങ്കേതികവിദ്യ, സാമ്പത്തിക പ്രൊഫഷണൽ സേവനങ്ങൾ എന്നിവയിൽ ദ്രുതഗതിയിലുള്ള വളർച്ച കൈവരിച്ചിട്ടുണ്ട്. എന്നാൽ കൃഷിയും അനുബന്ധ പ്രവർത്തനങ്ങളും ഇന്ത്യയുടെ ദേശീയ വരുമാനത്തിന്റെ അഞ്ചിലൊന്ന് മാത്രമേ സംഭാവന ചെയ്യുന്നുള്ളൂ. വികസ്വര സമ്പദ്‌വ്യവസ്ഥയുടെ ഏത് സവിശേഷതയാണ് ഈ രണ്ട് പ്രസ്താവനകളിൽ പ്രതിഫലിക്കുന്നത് ?
+O: A) ഘടനാപരമായ പരിവർത്തനം
+O: B) ധന ഏകീകരണം
+O: C) പൊതുമേഖലാ വിപുലീകരണം
+O: D) വ്യാപാര ഉദാരവൽക്കരണം
+ANS: A
+EN: Over the past few decades, Indian economy has experienced rapid growth in trade, transport, information technology, financial and professional services. But agriculture and allied activities contribute only about one-fifth of India’s national income. Which feature of a developing economy is reflected in these two statements ?
+EO: A) Structural transformation
+EO: B) Fiscal consolidation
+EO: C) Public sector expansion
+EO: D) Trade liberalisation
+
+@q 14
+STEM: 14. 1991-ലെ സാമ്പത്തിക പരിഷ്കാരങ്ങൾക്ക് ശേഷം, ബിസിനസ് സംരംഭങ്ങളുടെ വലിപ്പത്തിലും വളർച്ചയിലും സർക്കാർ നിയന്ത്രണത്തിൽ നിന്ന് കൂടുതൽ ഉദാരവൽക്കരിക്കപ്പെട്ടതും വിപണിയെ അടിസ്ഥാനമാക്കിയുള്ളതുമായ ഒരു സമ്പദ്‌വ്യവസ്ഥയിലേക്ക് ക്രമേണ നയപരമായ മാറ്റം ഉണ്ടായിട്ടുണ്ട്. MRTP നിയമത്തിന് പകരം ഏത് നിയമനിർമ്മാണമാണ് ഒടുവിൽ വന്നത് ?
+O: A) കമ്പനി നിയമം, 2002
+O: B) വിദേശനാണ്യ വിനിമയ മാനേജ്മെന്റ് നിയമം, 1999
+O: C) കോംപറ്റീഷൻ ആക്ട്, 2002
+O: D) ഉപഭോക്തൃ സംരക്ഷണ നിയമം, 2011
+ANS: C
+EN: After the economic reforms of 1991, there has been a gradual policy shift from government regulation over the size and growth of business enterprises to a more liberalized and market-oriented economy. Which legislation eventually replaced the MRTP Act ?
+EO: A) The Companies Act, 2002
+EO: B) Foreign Exchange Management Act, 1999
+EO: C) The Competition Act, 2002
+EO: D) The Consumer Protection Act, 2011
+
+@q 15
+STEM: 15. 1960-കളുടെ മധ്യത്തിൽ ഇന്ത്യയിൽ നടപ്പിലാക്കിയ ഹരിത വിപ്ലവത്തെ ശരിയായി വിശദീകരിക്കുന്നത് താഴെപ്പറയുന്നവയിൽ ഏതാണ് ?
+O: A) ആധുനിക കാർഷിക ഇൻപുട്ടുകളെ ശാസ്ത്രീയ വിള പരിപാലന രീതികളുമായി സംയോജിപ്പിച്ചു.
+O: B) ജലസേചനത്തിന്റെയും വളങ്ങളുടെയും ഉപയോഗം കുറയ്ക്കുന്നതിനെ പിന്തുണച്ചു.
+O: C) ഉയർന്ന വിളവ് നൽകുന്ന ഇനങ്ങളെ (HYVS) മാത്രം സ്വീകരിക്കുന്നതിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ചു.
+O: D) കാർഷിക ഇൻപുട്ടുകൾ മെച്ചപ്പെടുത്താതെ കൃഷിയെ പ്രോത്സാഹിപ്പിച്ചു.
+ANS: A
+EN: Which one of the following options correctly explains the Green Revolution introduced in India during mid-1960s ?
+EO: A) It integrated modern agricultural inputs with scientific crop management.
+EO: B) It supported a reduction in the use of irrigation and fertilizers.
+EO: C) It focused only on the adoption of HYVs.
+EO: D) It encouraged cultivation without improving farm inputs.
+NOTE: ഇംഗ്ലീഷ് പതിപ്പിൽ ‘mid-1960s’ (1960-കളുടെ മധ്യം) എന്നാണ്; ‘HYVS’ എന്ന് അച്ചടിച്ചിരിക്കുന്നത് HYVs എന്ന് തിരുത്തി.
+
+@q 16
+STEM: 16. സുസ്ഥിര വികസന ലക്ഷ്യങ്ങൾ (SDG) കൈവരിക്കുന്നതിൽ ഇന്ത്യയുടെയും അതിലെ സംസ്ഥാനങ്ങളുടെയും കേന്ദ്രഭരണ പ്രദേശങ്ങളുടെയും പ്രകടനം അളക്കുന്നതിനുള്ള സമഗ്രമായ അളവുകോൽ എന്ന നിലയിൽ SDG ഇന്ത്യ ഇൻഡെക്സ് വിഭാവനം ചെയ്ത സ്ഥാപനം ഏതാണ് ?
+O: A) ആസൂത്രണ കമ്മീഷൻ
+O: B) റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ
+O: C) നീതി ആയോഗ്
+O: D) ധനകാര്യ കമ്മീഷൻ
+ANS: C
+EN: Which institution conceived the SDG India Index as a comprehensive measurement tool to gauge the performance of India, its States and Union Territories in achieving the Sustainable Development Goals ?
+EO: A) Planning Commission
+EO: B) Reserve Bank of India
+EO: C) NITI Aayog
+EO: D) Finance Commission
+
+@q 17
+STEM: 17. വ്യക്തികളുടെ വരുമാനത്തിന് നേരിട്ട് നികുതി ചുമത്തുന്നതിനുപകരം, ചരക്കുകളുടെയും സേവനങ്ങളുടെയും ഉപഭോഗത്തിന്മേൽ നികുതി ചുമത്തി നികുതി വരുമാനം വർദ്ധിപ്പിക്കാനാണ് ഇന്ത്യാ ഗവൺമെന്റ് ഉദ്ദേശിക്കുന്നത്. ഏത് തരം നികുതിയാണ് ഈ ലക്ഷ്യം കൈവരിക്കാൻ ഏറ്റവും അനുയോജ്യം ?
+O: A) ആദായനികുതി
+O: B) ചരക്ക് സേവന നികുതി
+O: C) അനന്തരാവകാശ നികുതി
+O: D) കോർപ്പറേറ്റ് വരുമാനത്തിന്മേലുള്ള നികുതി
+ANS: B
+EN: The Government of India intends to increase tax revenue by taxing the consumption of goods and services rather than directly taxing the income of individuals. Which type of tax would best achieve this objective ?
+EO: A) Income Tax
+EO: B) Goods and Services Tax
+EO: C) Inheritance Tax
+EO: D) Tax on Corporate Income
+
+@q 18
+STEM: 18. ഒരു ഗ്രാമീണ കുടുംബത്തിന് ഒരു സാമ്പത്തിക വർഷം 125 ദിവസത്തെ അവിദഗ്ധ വേതന തൊഴിൽ നിയമപരമായ ഉറപ്പ് നൽകുന്ന ഇന്ത്യാ ഗവൺമെന്റിന്റെ ഏത് ആക്റ്റ്/പദ്ധതിയാണ് ?
+O: A) മഹാത്മാഗാന്ധി ദേശീയ ഗ്രാമീണ തൊഴിലുറപ്പ് നിയമം, 2005
+O: B) പ്രധാനമന്ത്രി ഗ്രാമീണ ആവാസ് യോജന, 2016
+O: C) വികസിത് ഭാരത് ഗ്യാരന്റി ഫോർ റോസ്ഗാർ ആൻഡ് ആജീവിക മിഷൻ (ഗ്രാമീൺ) നിയമം, 2025
+O: D) ദേശീയ ഭക്ഷ്യസുരക്ഷാ നിയമം, 2013
+ANS: C
+EN: Which Act/Scheme of Government of India provides a legal guarantee of 125 days of unskilled wage employment per rural household per financial year ?
+EO: A) Mahatma Gandhi National Rural Employment Guarantee Act, 2005
+EO: B) Pradhan Mantri Gramin Awaas Yojana, 2016
+EO: C) Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025
+EO: D) National Food Security Act, 2013
+
+@q 19
+STEM: 19. താഴെ പറയുന്ന പ്രസ്താവനകളിൽ ഏതാണ് ശരി ?
+S: i. ആമുഖം ഭരണഘടനയുടെ അവിഭാജ്യ ഘടകമാണ്.
+S: ii. 1960-ലെ ബെരുബാരി യൂണിയൻ കേസിൽ ഇത് ശരിവച്ചു.
+S: iii. 1978-ലെ 44-ാമത് ഭരണഘടനാ ഭേദഗതി നിയമത്തിലൂടെ ആമുഖം ഭേദഗതി ചെയ്തു.
+O: A) i ഉം iii ഉം മാത്രം
+O: B) i മാത്രം
+O: C) i, ii, iii
+O: D) മുകളിൽ പറഞ്ഞവ ഒന്നുമല്ല
+ANS: B
+EN: Which one of the following statements is/are correct ?
+ES: i. Preamble is an integral part of the Constitution.
+ES: ii. This was upheld in Berubari Union Case, 1960.
+ES: iii. Preamble has been amended by 44th Constitutional Amendment Act, 1978.
+EO: A) Only i and iii
+EO: B) Only i
+EO: C) i, ii and iii
+EO: D) None of the above
+
+@q 20
+STEM: 20. താഴെ പറയുന്നവയിൽ ഏതാണ് രാജ്യസഭയുടെ പ്രത്യേക അധികാരങ്ങൾ ?
+S: i. ദേശീയ താൽപര്യം പരിഗണിച്ച് ആവശ്യമായ സാഹചര്യത്തിൽ സംസ്ഥാന പട്ടികയിലെ വിഷയങ്ങളിൽ നിയമനിർമ്മാണം നടത്തുക.
+S: ii. ധനബിൽ അവതരിപ്പിക്കുക.
+S: iii. ഉപരാഷ്ട്രപതിയെ സ്ഥാനത്തുനിന്ന് നീക്കം ചെയ്യുക.
+S: iv. അഖിലേന്ത്യാ സർവീസുകൾ രൂപീകരിക്കുക.
+O: A) i മാത്രം
+O: B) i ഉം iv ഉം
+O: C) i, iii, iv
+O: D) മുകളിൽ പറഞ്ഞവയെല്ലാം
+ANS: C
+EN: Which of the following are exclusive powers of Rajya Sabha ?
+ES: i. Legislate on state list subject if it is expedient in case of national interest.
+ES: ii. Introduction of money bill.
+ES: iii. Removal of the Vice President.
+ES: iv. Creation of All India Services.
+EO: A) Only i
+EO: B) i and iv
+EO: C) i, iii and iv
+EO: D) All of the above
+
+@q 21
+STEM: 21. വാദം (A) : ഇന്ത്യയുടെ രാഷ്ട്രപതി പാർലമെന്റിന്റെ ഏതെങ്കിലും ഒരു സഭയിലെയും അംഗമല്ല.
+S: കാരണം (R) : ഇന്ത്യൻ ഭരണഘടന പ്രകാരം പാർലമെന്റ് രാഷ്ട്രപതിയും പാർലമെന്റിന്റെ രണ്ട് സഭകളും ചേർന്നതാണ്.
+O: A) (A) യും (R) ഉം ശരിയാണ്, എന്നാൽ (R), (A) യുടെ ശരിയായ വിശദീകരണമല്ല
+O: B) (A) യും (R) ഉം ശരിയാണ്, എന്നാൽ (R), (A) യുടെ ശരിയായ വിശദീകരണമാണ്
+O: C) (A) ശരിയാണ്, (R) തെറ്റാണ്
+O: D) (A) യും (R) ഉം തെറ്റാണ്
+ANS: A
+EN: Assertion (A) : The President of India is not a member of either House of Parliament.
+ES: Reasoning (R) : The Constitution of India provides that Parliament consists of the President and the two Houses of Parliament.
+EO: A) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+EO: B) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+EO: C) (A) is true, but (R) is false
+EO: D) Both (A) and (R) are false
+NOTE: ഔദ്യോഗിക ഉത്തരസൂചിക പ്രകാരം ഉത്തരം A ആണ്; (R) എന്ന കാരണം (A) യെ വിശദീകരിക്കുന്നതായി തോന്നാമെന്നതിനാൽ ചോദ്യം/ഉത്തരം സംശയാസ്പദമായേക്കാം.
